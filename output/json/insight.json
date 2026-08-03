@@ -1,0 +1,91 @@
+{
+    "company": {
+        "name": "Insight",
+        "website": "https://www.insight.com/en_US/what-we-do/expertise/data-and-ai/computer-vision.html",
+        "industry": "AI Solutions",
+        "summary": "Insight accelerates transformation by unlocking the power of people and technology. We drive speed, scale, resilience, and innovation to help clients achieve their ambitious goals.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Computer Vision"
+    ],
+    "technologies": [
+        "Cloud Platforms",
+        "Databases",
+        "DevOps Tools",
+        "AI Frameworks",
+        "LLMs"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [
+        "No Computer Vision Solutions",
+        "Limited AI Adoption"
+    ],
+    "ai_opportunities": [
+        "Computer Vision Platform",
+        "AI for Computer Vision"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Computer Vision"
+        ],
+        "strengths": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Mobile Application Development"
+        ],
+        "improvement_areas": [
+            "Add Computer Vision skills to the profile"
+        ],
+        "reasoning": "The candidate has strong Python, React Native, PyTorch, and computer vision skills. However, they lack Computer Vision skills which are a key requirement for Insight's AI solutions. The company is looking for solutions in various industries including healthcare, education, finance, and technology. The candidate should focus on acquiring Computer Vision skills to better match the company's needs."
+    },
+    "recommended_services": [
+        "Computer Vision Solutions"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima khan",
+        "desired_role": "Frontend Developer",
+        "skills": [
+            "python",
+            "react native",
+            "machine learning",
+            "pytorch",
+            "computer vision",
+            "nlp",
+            "mobile application development",
+            "website development"
+        ],
+        "services": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Mobile Application Development"
+        ]
+    }
+}

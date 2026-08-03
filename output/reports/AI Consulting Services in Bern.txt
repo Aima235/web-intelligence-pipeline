@@ -1,0 +1,26 @@
+Company: AI Consulting Services in Bern
+Website: https://digitalpassion.ch/artificial-intelligence-consulting-company-in-bern/
+Industry: Artificial Intelligence Consulting
+
+Match Score: 0%
+Priority: 
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- AI Development
+- Machine Learning Solutions
+- LLM Applications
+- AI Automation
+- Computer Vision
+
+Reasoning
+-------------------------
+The candidate's profile does not match the company requirements in terms of specific technologies such as Docker, AWS, and other tools. The skills listed are broad but do not align with the detailed technology list provided by the company.

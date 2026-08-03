@@ -1,0 +1,27 @@
+Company: Saviant
+Website: https://www.saviantconsulting.com/machine-learning-consulting.aspx
+Industry: AI Machine Learning Consulting
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- AWS
+- Docker
+
+Recommended Services
+-------------------------
+- Capability Maturity Assessments
+- Industrial IoT Consulting
+- Machine Learning Consulting
+- Data Analytics Consulting
+- Azure Cloud Consulting
+- Digital Twins Consulting
+
+Reasoning
+-------------------------
+The candidate has strong skills in Python, AI, Machine Learning, and Natural Language Processing. However, they lack knowledge of AWS and Docker, which are crucial for the company's services involving Azure cloud consulting and digital twins consulting.

@@ -1,0 +1,32 @@
+Company: LLMSoftware.com
+Website: https://www.llmsoftware.com/
+Industry: Business Automation & Workflow Intelligence
+
+Match Score: 90%
+Priority: Medium
+
+Matched Skills
+-------------------------
+- python
+- ai
+- machine learning
+- natural language processing
+- pytorch
+- tensorflow
+- keras
+- llm
+- agentic ai
+- generative ai
+
+Missing Skills
+-------------------------
+
+Recommended Services
+-------------------------
+- PyTorch
+- TensorFlow
+- Keras
+
+Reasoning
+-------------------------
+The candidate has a strong background in Python and related technologies such as PyTorch, TensorFlow, and Keras. They have also demonstrated proficiency in AI, Machine Learning, NLP, and LLMs. The company's focus on business automation and workflow intelligence aligns well with the candidate's skills and experience. While there are no missing skills listed, it is recommended to further develop expertise in PyTorch and TensorFlow for more advanced projects.

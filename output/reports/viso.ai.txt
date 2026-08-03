@@ -1,0 +1,26 @@
+Company: viso.ai
+Website: https://viso.ai/computer-vision/most-popular-computer-vision-companies-and-startups/
+Industry: Computer Vision Software Companies
+
+Match Score: 90%
+Priority: 
+
+Matched Skills
+-------------------------
+- Python
+- React Native
+- PyTorch
+- Computer Vision
+- Natural Language Processing (NLP)
+
+Missing Skills
+-------------------------
+
+Recommended Services
+-------------------------
+- AI Chatbot Development
+- Computer Vision Solutions
+
+Reasoning
+-------------------------
+The candidate has strong Python, React Native, PyTorch, Computer Vision, and NLP skills which align well with the company's technology stack. The missing skills are minimal as they focus on AI technologies that are already part of the company's offerings.

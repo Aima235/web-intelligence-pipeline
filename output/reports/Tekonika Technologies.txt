@@ -1,0 +1,26 @@
+Company: Tekonika Technologies
+Website: https://tekonika.co/ai-consulting
+Industry: AI Consulting
+
+Match Score: 0%
+Priority: 
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Hadoop
+
+Recommended Services
+-------------------------
+- AI Development
+- Machine Learning Solutions
+- LLM Applications
+- AI Automation
+- Computer Vision
+- NLP Applications
+
+Reasoning
+-------------------------
+The candidate profile includes skills such as Python, Machine Learning, Deep Learning, Artificial Intelligence, TensorFlow, PyTorch, Computer Vision, NLP, and LLMs. However, the company information mentions Hadoop as a technology. The candidate does not have experience with Hadoop, which is crucial for AI consulting services involving data processing and analysis. This lack of knowledge in Hadoop makes it difficult to match the candidate's skills with the company's requirements.

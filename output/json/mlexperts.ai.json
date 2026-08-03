@@ -1,0 +1,97 @@
+{
+    "company": {
+        "name": "MLExperts.ai",
+        "website": "https://mlexperts.ai/",
+        "industry": "AI ML Consulting",
+        "summary": "MLExperts.ai is a premier AI ML consulting company specializing in deploying deep tech solutions such as neural networks, advanced algorithms, and high-performance computing. Our team of machine learning experts drives innovation and results through diverse expertise.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Data ingestion pipelines",
+        "MLOps",
+        "Fine-tuning models",
+        "Speeding up inference",
+        "Model compression",
+        "Hosting models across different cloud and compute infrastructures",
+        "Deployment management (Docker, CI/CD)",
+        "Backend development",
+        "Writing APIs for third-party integration",
+        "System-level code optimization",
+        "Interfacing with C/C++ low-latency code",
+        "Network protocol integration: gRPC for real-time data transfer",
+        "DevOps"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "AWS",
+        "Azure",
+        "Docker",
+        "CI/CD",
+        "Linux-based cloud platforms like AWS, Azure, GCP",
+        "gRPC"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "GenAI model explainability",
+        "Product architecture"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "CI/CD"
+        ],
+        "strengths": [
+            "Python",
+            "AI",
+            "ML",
+            "Computer Vision"
+        ],
+        "improvement_areas": [
+            "Docker",
+            "CI/CD"
+        ],
+        "reasoning": "The candidate's skills and experience align closely with the company's needs for AI, ML, and Computer Vision. However, they lack proficiency in Docker and CI/CD tools which are essential for deployment and management of AI models across different cloud infrastructures."
+    },
+    "recommended_services": [
+        "AI Engineer",
+        "Machine Learning"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "ai",
+            "ml",
+            "computer vision"
+        ],
+        "services": [
+            "Python",
+            "AI",
+            "ML"
+        ]
+    }
+}

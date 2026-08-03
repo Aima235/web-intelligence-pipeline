@@ -1,0 +1,37 @@
+Company: Citrusbug
+Website: https://citrusbug.com/services/computer-vision-solution-consulting/
+Industry: AI Software Development & Custom AI Solutions for Businesses
+
+Match Score: 70%
+Priority: Low
+
+Matched Skills
+-------------------------
+- Python
+- React Native
+- PyTorch
+- Computer Vision
+- Natural Language Processing (NLP)
+- Mobile Application Development
+
+Missing Skills
+-------------------------
+- Website Development
+- Machine Learning
+- Data Engineering
+- Custom LLM Development
+- AI SaaS Development
+- RAG Development
+
+Recommended Services
+-------------------------
+- Python Backend Development
+- React Native Frontend Development
+- PyTorch Model Training
+- Computer Vision Project Implementation
+- NLP Healthcare Application Development
+- Mobile App Development
+
+Reasoning
+-------------------------
+The candidate has strong Python and React Native skills but lacks experience in other areas such as website development, machine learning, data engineering, custom LLM development, AI SaaS development, RAG development. The company requires expertise in these areas to deliver comprehensive AI solutions.

@@ -1,0 +1,22 @@
+Company: Empirical Edge Inc.
+Website: https://aimlmarketplace.com/ai-ml-providers/
+Industry: AI/ML Development
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Java
+- AWS
+
+Recommended Services
+-------------------------
+- Custom software development and mobile app solutions
+
+Reasoning
+-------------------------
+The candidate has strong Python and AI/ML skills, but lacks the necessary technical expertise in Java and AWS. This makes them a good fit for custom software development and mobile app solutions while requiring additional training on these technologies.

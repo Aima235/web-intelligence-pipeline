@@ -1,0 +1,115 @@
+{
+    "company": {
+        "name": "Citrusbug",
+        "website": "https://citrusbug.com/services/computer-vision-solution-consulting/",
+        "industry": "AI Software Development & Custom AI Solutions for Businesses",
+        "summary": "Citrusbug delivers enterprise-grade computer vision consulting that transforms visual data into automated decisions, operational efficiency, and scalable AI-driven growth.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Computer Vision Engineering",
+        "NLP & Conversational AI",
+        "Generative AI Integration",
+        "Cloud & Infrastructure Consulting"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 70,
+        "confidence": "Low",
+        "matched_skills": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Mobile Application Development"
+        ],
+        "missing_skills": [
+            "Website Development",
+            "Machine Learning",
+            "Data Engineering",
+            "Custom LLM Development",
+            "AI SaaS Development",
+            "RAG Development"
+        ],
+        "strengths": [
+            "Strong Python and React Native skills",
+            "Experience in Computer Vision, NLP, and Mobile App Development"
+        ],
+        "improvement_areas": [
+            "Expand expertise in website development",
+            "Deepen knowledge in machine learning and data engineering",
+            "Develop custom LLM solutions"
+        ],
+        "reasoning": "The candidate has strong Python and React Native skills but lacks experience in other areas such as website development, machine learning, data engineering, custom LLM development, AI SaaS development, RAG development. The company requires expertise in these areas to deliver comprehensive AI solutions."
+    },
+    "recommended_services": [
+        "Python Backend Development",
+        "React Native Frontend Development",
+        "PyTorch Model Training",
+        "Computer Vision Project Implementation",
+        "NLP Healthcare Application Development",
+        "Mobile App Development"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": "/careers/"
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima khan",
+        "desired_role": "Frontend Developer",
+        "skills": [
+            "python",
+            "react native",
+            "machine learning",
+            "pytorch",
+            "computer vision",
+            "nlp",
+            "mobile application development",
+            "website development"
+        ],
+        "services": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Mobile Application Development"
+        ]
+    }
+}

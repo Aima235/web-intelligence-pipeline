@@ -1,0 +1,42 @@
+{
+    "company": {
+        "name": "M Design Works",
+        "website": "https://www.mdesignworks.co.uk/ai-consultancy",
+        "industry": "Artificial Intelligence Consulting",
+        "summary": "M Design Works provides AI consultancy that ensures strategic alignment, ethical responsibility, practical outcomes, and sustainable growth. Our approach includes a business-first approach, cross-industry expertise, proven methodology, measurable results, and partner opportunities.",
+        "location": ""
+    },
+    "services": [
+        "AI Consultancy"
+    ],
+    "technologies": [],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [
+        "No AI Consultancy",
+        "Lack of strategic assessment and solution design expertise",
+        "Inadequate implementation roadmaps and scalable architectures",
+        "Insufficient proof-of-concept solutions and responsible deployment planning"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ]
+    },
+    "recommended_services": [
+        "AI Consultancy"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

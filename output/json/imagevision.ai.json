@@ -1,0 +1,61 @@
+{
+    "company": {
+        "name": "ImageVision.ai",
+        "website": "https://imagevision.ai/",
+        "industry": "Computer Vision",
+        "summary": "Leverage Image and Video Analytics to Optimize your Business Operations and Drive Data-Informed Decision-Making.",
+        "location": ""
+    },
+    "services": [
+        "Packaging",
+        "Security and Surveillance",
+        "Bottling",
+        "Healthcare",
+        "Transportation",
+        "FMCG",
+        "Pharmaceutical",
+        "Oil and Gas"
+    ],
+    "technologies": [
+        "Deep Learning Algorithms",
+        "Cross-platform Integration",
+        "Data Extraction",
+        "Image Acquisition",
+        "Pre-process",
+        "Optimized, Deployed & Improved",
+        "Continuous Training & Evaluation",
+        "Feature Extraction"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ]
+    },
+    "recommended_services": [],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

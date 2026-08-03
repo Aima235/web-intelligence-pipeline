@@ -1,0 +1,25 @@
+Company: S4D Tech
+Website: https://www.s4dtech.com/
+Industry: AI/ML, Go, Rust, Python, React, Flutter
+
+Match Score: 0%
+Priority: High
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- 🤖 AI / ML
+- ⚙️ Systems
+- ⚛️ Web Apps
+- 📱 Mobile
+
+Reasoning
+-------------------------
+The candidate is highly skilled in Python and AI/ML technologies. However, they lack experience with Go, Rust, Docker, and AWS, which are key technologies for S4D Tech's services. The company requires expertise in these areas to deliver custom LLM pipelines, fine-tuning, and production-grade MLOps.

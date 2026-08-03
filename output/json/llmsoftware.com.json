@@ -1,0 +1,114 @@
+{
+    "company": {
+        "name": "LLMSoftware.com",
+        "website": "https://www.llmsoftware.com/",
+        "industry": "Business Automation & Workflow Intelligence",
+        "summary": "LLMSoftware.com specializes in business automation and workflow intelligence, turning AI-built products into fully operational businesses. Their platform integrates 40+ systems, fine-tunes LLMs for SMB operations, and ensures secure deployment across enterprise environments.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Platform",
+        "Infrastructure",
+        "Code Bots"
+    ],
+    "technologies": [
+        "AI DeepSearch",
+        "Conversational AI",
+        "Custom LLM",
+        "AI Builder",
+        "AGENTS",
+        "Legal AI",
+        "HR AI",
+        "Finance AI",
+        "Marketing AI",
+        "Security AI",
+        "Sales AI"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights",
+        "AI Agents",
+        "Agentic AI"
+    ],
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights",
+        "AI Agents",
+        "Agentic AI"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 90,
+        "confidence": "High",
+        "matched_skills": [
+            "python",
+            "ai",
+            "machine learning",
+            "natural language processing",
+            "pytorch",
+            "tensorflow",
+            "keras",
+            "llm",
+            "agentic ai",
+            "generative ai"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "strong proficiency in Python and related technologies",
+            "demonstrated experience in AI, Machine Learning, NLP, PyTorch, TensorFlow, Keras"
+        ],
+        "improvement_areas": [],
+        "reasoning": "The candidate has a strong background in Python and related technologies such as PyTorch, TensorFlow, and Keras. They have also demonstrated proficiency in AI, Machine Learning, NLP, and LLMs. The company's focus on business automation and workflow intelligence aligns well with the candidate's skills and experience. While there are no missing skills listed, it is recommended to further develop expertise in PyTorch and TensorFlow for more advanced projects."
+    },
+    "recommended_services": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima Khan",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "AI",
+            "Machine Learning",
+            "natural language proceesing",
+            "pytorch",
+            "tensorflow",
+            "keras",
+            "kubernetes",
+            "llm",
+            "agentic ai",
+            "generative ai"
+        ],
+        "services": [
+            "PyTorch",
+            "TensorFlow",
+            "Keras"
+        ]
+    }
+}

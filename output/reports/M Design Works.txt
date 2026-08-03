@@ -1,0 +1,22 @@
+Company: M Design Works
+Website: https://www.mdesignworks.co.uk/ai-consultancy
+Industry: Artificial Intelligence Consulting
+
+Match Score: 0%
+Priority: High
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- AI Consultancy
+
+Reasoning
+-------------------------
+The candidate profile does not match the company information. The missing skills are Docker and AWS, which are technologies that appear in the company's technology list but do not appear in the candidate's skill set.

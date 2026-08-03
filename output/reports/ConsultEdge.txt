@@ -1,0 +1,23 @@
+Company: ConsultEdge
+Website: https://www.consultedge.global/ai-ml-services
+Industry: AI Consulting
+
+Match Score: 0%
+Priority: 
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- AWS
+- Docker
+
+Recommended Services
+-------------------------
+- AI Engineer
+- Machine Learning
+
+Reasoning
+-------------------------
+The candidate's skills and experience align closely with the company's AI consulting services, particularly in areas like Python, AI, ML, and Computer Vision. However, there are missing technologies such as AWS and Docker which could be a significant gap for the company.

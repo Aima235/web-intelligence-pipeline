@@ -1,0 +1,26 @@
+Company: Mentality.ai
+Website: http://mentality.ai/
+Industry: AI Consulting
+
+Match Score: 0%
+Priority: 
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Java
+- Docker
+- Kubernetes
+
+Recommended Services
+-------------------------
+- Custom Deep Learning Solutions
+- Medical Imaging
+- Autonomous Vehicles
+- Aerial Photography
+
+Reasoning
+-------------------------
+The candidate's skills and experience are mostly aligned with the company's technology stack, but there are significant gaps in Java, Docker, and Kubernetes. The recommended services focus on areas where the candidate can bring value without requiring additional training or resources.

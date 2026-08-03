@@ -1,0 +1,104 @@
+{
+    "company": {
+        "name": "Mentality.ai",
+        "website": "http://mentality.ai/",
+        "industry": "AI Consulting",
+        "summary": "Transform your business with AI | Mentality.ai",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Custom Deep Learning Solutions",
+        "Medical Imaging",
+        "Autonomous Vehicles",
+        "Aerial Photography"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Predictive Analytics"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Java",
+            "Docker",
+            "Kubernetes"
+        ],
+        "strengths": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Mobile Application Development"
+        ],
+        "improvement_areas": [
+            "Java",
+            "Docker",
+            "Kubernetes"
+        ],
+        "reasoning": "The candidate's skills and experience are mostly aligned with the company's technology stack, but there are significant gaps in Java, Docker, and Kubernetes. The recommended services focus on areas where the candidate can bring value without requiring additional training or resources."
+    },
+    "recommended_services": [
+        "Custom Deep Learning Solutions",
+        "Medical Imaging",
+        "Autonomous Vehicles",
+        "Aerial Photography"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [
+            "contact@mentality.ai"
+        ],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima khan",
+        "desired_role": "Frontend Developer",
+        "skills": [
+            "python",
+            "react native",
+            "machine learning",
+            "pytorch",
+            "computer vision",
+            "nlp",
+            "mobile application development",
+            "website development"
+        ],
+        "services": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Mobile Application Development"
+        ]
+    }
+}

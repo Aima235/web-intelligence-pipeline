@@ -1,0 +1,98 @@
+{
+    "company": {
+        "name": "S4D Tech",
+        "website": "https://www.s4dtech.com/",
+        "industry": "AI/ML, Go, Rust, Python, React, Flutter",
+        "summary": "S4D Tech is a boutique technology agency specializing in AI systems, backend services, and product-grade apps. We deliver custom LLM pipelines, RAG architectures, fine-tuning, and production-grade MLOps. Our team handles AI inference from the notebook to end-to-end.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "🤖 AI / ML",
+        "⚙️ Systems",
+        "⚛️ Web Apps",
+        "📱 Mobile",
+        "Built with"
+    ],
+    "technologies": [
+        "Go",
+        "Rust",
+        "Python",
+        "ReactJS",
+        "Next.js",
+        "Flutter",
+        "Dart",
+        "iOS",
+        "Android",
+        "gRPC",
+        "REST",
+        "Pandas",
+        "PyTorch",
+        "Celery",
+        "TypeScript"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Predictive Analytics",
+        "Recommendation Engine",
+        "Document Intelligence",
+        "Knowledge Base Assistant",
+        "Code Optimization Assistant",
+        "Workflow Automation"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ],
+        "strengths": [
+            "Highly skilled in Python and AI/ML technologies"
+        ],
+        "improvement_areas": [
+            "Expand skills in Go, Rust, Docker, AWS"
+        ],
+        "reasoning": "The candidate is highly skilled in Python and AI/ML technologies. However, they lack experience with Go, Rust, Docker, and AWS, which are key technologies for S4D Tech's services. The company requires expertise in these areas to deliver custom LLM pipelines, fine-tuning, and production-grade MLOps."
+    },
+    "recommended_services": [
+        "🤖 AI / ML",
+        "⚙️ Systems",
+        "⚛️ Web Apps",
+        "📱 Mobile"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [
+            "hello@s4dtech.com"
+        ],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima",
+        "desired_role": "AI/ML Engineer",
+        "skills": [
+            "python",
+            "ai",
+            "ml"
+        ],
+        "services": [
+            "AI/ML"
+        ]
+    }
+}

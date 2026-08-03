@@ -1,0 +1,57 @@
+{
+    "company_name": "EY",
+    "website": "https://www.ey.com/en_us/services/consulting/artificial-intelligence-consulting-services",
+    "industry": "Consulting",
+    "summary": "EY helps clients create long-term value for all stakeholders. Enabled by data and technology, our services and solutions provide trust through assurance and help clients transform their businesses.",
+    "services": [
+        "Strategy",
+        "Analytics Consulting",
+        "Transaction & Corporate Finance",
+        "Assurance Services",
+        "Cybersecurity",
+        "People & Workforce"
+    ],
+    "technologies": [
+        "Python",
+        "React",
+        "TensorFlow",
+        "AWS",
+        "Azure",
+        "FastAPI",
+        "Docker",
+        "Kubernetes"
+    ],
+    "ai_opportunities": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "emails": [
+        "info@eY.com"
+    ],
+    "phones": [
+        "+1-800-267-5432"
+    ],
+    "careers_page": "",
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "ai_solutions": [],
+    "automation_opportunities": [],
+    "priority_level": "Low",
+    "match_score": 0,
+    "matched_skills": [],
+    "missing_skills": [],
+    "recommended_services": [],
+    "reasoning": "",
+    "proposal": "",
+    "crawl_status": "Success",
+    "content_snippet": "Artificial Intelligence Consulting Services | EY - US\nEY Homepage\nServices\nStrategy by EY-Parthenon\nStrategy by EY-Parthenon\nCorporate & Growth Strategy\nGeopolitical Strategy\nCommercial Strategy\nWorking Capital\nTurnaround & Restructuring Consulting\nEnterprise Reimaginedᵀᴹ\nPrivate Equity Value Creation\nDisruptive Strategy\nEconomic Analysis\nAbout EY-Parthenon\nTransactions and Corporate Finance by EY-Parthenon\nTransactions and Corporate Finance by EY-Parthenon\nM&A Advisory\nM&A Integration\nM&A AI-powered Technology\nDivestment Strategy\nCorporate Finance\nValuation, Modeling & Economics\nDue Diligence\nForecasting and Scenario Planning\nInvestment Banking\nAbout EY-Parthenon\nConsulting\nConsulting\nAnalytics Consulting\nCustomer Experience by EY Studio+\nCybersecurity\nFinance Consulting\nRisk Consulting\nSupply Chain & Operations\nTechnology Transformation\nTransformation Platform\nAssurance Services\nAssurance Services\nAudit Services\nClimate Change & Sustainability\nFinancial Accounting Advisory\nForensic &"
+}

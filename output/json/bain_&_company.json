@@ -1,0 +1,50 @@
+{
+    "company": {
+        "name": "Bain & Company",
+        "website": "https://www.bain.com/",
+        "industry": "Consulting Services",
+        "summary": "Bain & Company is a global management consulting firm offering AI, Insights, and Solutions. They focus on customer experience, innovation, M&A, operations, people & organization, private equity, sales & marketing, strategy, sustainability, technology transformation, digital insights, and industry insights.",
+        "location": ""
+    },
+    "services": [
+        "AI, Insights, and Solutions"
+    ],
+    "technologies": [],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "AWS",
+            "Docker"
+        ]
+    },
+    "recommended_services": [
+        "AI Development",
+        "Machine Learning Solutions",
+        "LLM Applications",
+        "AI Automation"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

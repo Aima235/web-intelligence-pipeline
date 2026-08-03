@@ -1,0 +1,102 @@
+{
+    "company": {
+        "name": "Intellias",
+        "website": "https://intellias.com/machine-learning-artificial-intelligence-development-services/",
+        "industry": "AI & Machine Learning Services",
+        "summary": "Intellias provides comprehensive artificial intelligence services designed for enterprises seeking clear outcomes from their AI initiatives. The Intellias Pragmatic AI Playbook is the sensible, step-by-step approach to achieving true AI return on investment (ROI).",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "AI Services",
+        "AI Ready Data",
+        "Responsible AI",
+        "AI Enabled Engineering and App Development",
+        "AI Powered Digital Enterprise",
+        "AI Driven Innovation"
+    ],
+    "technologies": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "PyTorch",
+        "TensorFlow",
+        "FastAPI",
+        "Java",
+        "Python"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Predictive Analytics",
+        "Recommendation Engine",
+        "Semantic Search",
+        "Intelligent Document Processing",
+        "AI Knowledge Base",
+        "AI Code Assistant"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "Kubernetes"
+        ],
+        "strengths": [
+            "Python",
+            "AI",
+            "ML",
+            "CV"
+        ],
+        "improvement_areas": [
+            "Docker",
+            "Kubernetes"
+        ],
+        "reasoning": "The candidate has strong skills in Python, AI, ML, and CV. However, they lack experience with Docker and Kubernetes, which are important technologies for the company's services. The recommended services focus on areas where the candidate can contribute effectively."
+    },
+    "recommended_services": [
+        "AI Chatbot",
+        "Predictive Analytics",
+        "Recommendation Engine",
+        "Semantic Search",
+        "Intelligent Document Processing",
+        "AI Knowledge Base",
+        "AI Code Assistant"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima perveen",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "ai",
+            "ml",
+            "cv"
+        ],
+        "services": [
+            "Python",
+            "AI",
+            "ML",
+            "CV"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+Company: MindRind
+Website: https://mindrind.net/computer-vision-solutions/
+Industry: Computer Vision Solutions
+
+Match Score: 0%
+Priority: Medium
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- AI Chatbot Development
+- Internal Knowledge Base Bots
+
+Reasoning
+-------------------------
+The candidate has strong skills in Python, AI, ML, and Computer Vision. However, they lack experience with Docker and AWS, which are important technologies for the company's services. The recommended services focus on delivering AI Chatbot Development and Internal Knowledge Base Bots, which align well with the company's needs.

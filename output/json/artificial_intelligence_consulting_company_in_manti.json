@@ -1,0 +1,71 @@
+{
+    "company": {
+        "name": "Artificial Intelligence Consulting Company in Manti",
+        "website": "https://www.zfort.com/artificial-intelligence/artificial-intelligence-ai-consulting-in-Manti",
+        "industry": "AI Consulting, FinTech, Healthcare, Insurance, eCommerce and retail, fitness, construction, legal services, real estate, green energy, hospitality, productivity, logistics, wellness",
+        "summary": "Artificial Intelligence Consulting Company in Manti specializes in providing comprehensive AI consulting services tailored to meet the specific needs of each client. Their team uses cutting-edge technologies and advanced algorithms to develop AI solutions that are seamlessly integrated with existing systems.",
+        "location": ""
+    },
+    "services": [
+        "Custom Software Development",
+        "Web Development",
+        "Mobile Application Development",
+        "Artificial Intelligence Development",
+        "Blockchain Development",
+        "Cloud and DevOps"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "AI Frameworks",
+        "LLMs"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "AWS",
+            "Azure"
+        ]
+    },
+    "recommended_services": [
+        "Custom Software Development",
+        "Web Development",
+        "Mobile Application Development",
+        "Artificial Intelligence Development",
+        "Blockchain Development",
+        "Cloud and DevOps"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

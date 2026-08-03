@@ -1,0 +1,94 @@
+{
+    "company": {
+        "name": "Resolve Tech Solutions",
+        "website": "https://resolvetech.com/machine-learning-consulting-enterprises-operational-results/",
+        "industry": "AI Consulting",
+        "summary": "Machine learning consulting guides enterprises through the full ML lifecycle, from identifying high-value use cases to deploying production-grade models and integrating AI outputs into existing business workflows.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Machine Learning Consulting"
+    ],
+    "technologies": [
+        "SAP S/4HANA",
+        "AWS SageMaker",
+        "Azure Machine Learning",
+        "Google Vertex AI"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "SAP S/4HANA",
+            "AWS SageMaker",
+            "Azure Machine Learning",
+            "Google Vertex AI"
+        ],
+        "strengths": [
+            "Strong Python and AI skills"
+        ],
+        "improvement_areas": [
+            "Lack of experience with SAP S/4HANA, AWS SageMaker, Azure Machine Learning, and Google Vertex AI technologies"
+        ],
+        "reasoning": "The candidate has strong Python and AI skills but lacks knowledge in the specific technologies required by the company. The company focuses on areas like machine learning consulting, which is not covered in the candidate's profile."
+    },
+    "recommended_services": [
+        "Machine Learning Consulting"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [
+            "+1 214.310.1020"
+        ],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima Khan",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "AI",
+            "Machine Learning",
+            "natural language proceesing",
+            "pytorch",
+            "tensorflow",
+            "keras",
+            "kubernetes",
+            "llm",
+            "agentic ai",
+            "generative ai"
+        ],
+        "services": [
+            "PyTorch",
+            "TensorFlow",
+            "Keras"
+        ]
+    }
+}

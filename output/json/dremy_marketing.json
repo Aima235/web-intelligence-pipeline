@@ -1,0 +1,49 @@
+{
+    "company": {
+        "name": "Dremy Marketing",
+        "website": "https://dremymarketing.com/artificial-intelligence-consulting/",
+        "industry": "Artificial Intelligence Consulting",
+        "summary": "Dremy Marketing offers professional Artificial Intelligence (AI) Consultation services to help businesses harness the power of AI for smarter, faster, and more efficient operations. Our AI strategies are designed to provide measurable results and give your business a competitive edge in today’s digital landscape.",
+        "location": ""
+    },
+    "services": [
+        "AI Strategy Development",
+        "Integration Planning",
+        "Implementation Support",
+        "Data-Driven Decision Making"
+    ],
+    "technologies": [],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Cost of Google Ads without Results",
+        "Poor Conversion Rates for Clicks"
+    ],
+    "business_gaps": [
+        "Cost of Google Ads without Results",
+        "Poor Conversion Rates for Clicks"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ]
+    },
+    "recommended_services": [
+        "AI Strategy Development",
+        "Integration Planning",
+        "Implementation Support",
+        "Data-Driven Decision Making"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

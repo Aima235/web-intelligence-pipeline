@@ -1,0 +1,84 @@
+{
+    "company": {
+        "name": "Empirical Edge Inc.",
+        "website": "https://aimlmarketplace.com/ai-ml-providers/",
+        "industry": "AI/ML Development",
+        "summary": "Empirical Edge Inc. delivers custom software development and mobile app solutions for your business, located in Marlton NJ USA.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Custom software development and mobile app solutions"
+    ],
+    "technologies": [
+        "Java",
+        "Python",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [
+        "No AI/ML Development Services",
+        "Lack of Automation Solutions"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Java",
+            "AWS"
+        ],
+        "strengths": [
+            "Strong Python skills",
+            "Experience in AI/ML",
+            "Good Computer Vision knowledge"
+        ],
+        "improvement_areas": [
+            "Need to learn Java for custom software development",
+            "Lack of AWS experience"
+        ],
+        "reasoning": "The candidate has strong Python and AI/ML skills, but lacks the necessary technical expertise in Java and AWS. This makes them a good fit for custom software development and mobile app solutions while requiring additional training on these technologies."
+    },
+    "recommended_services": [
+        "Custom software development and mobile app solutions"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "ai",
+            "ml",
+            "computer vision"
+        ],
+        "services": [
+            "Python",
+            "AI",
+            "ML"
+        ]
+    }
+}

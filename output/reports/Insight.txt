@@ -1,0 +1,21 @@
+Company: Insight
+Website: https://www.insight.com/en_US/what-we-do/expertise/data-and-ai/computer-vision.html
+Industry: AI Solutions
+
+Match Score: 0%
+Priority: High
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Computer Vision
+
+Recommended Services
+-------------------------
+- Computer Vision Solutions
+
+Reasoning
+-------------------------
+The candidate has strong Python, React Native, PyTorch, and computer vision skills. However, they lack Computer Vision skills which are a key requirement for Insight's AI solutions. The company is looking for solutions in various industries including healthcare, education, finance, and technology. The candidate should focus on acquiring Computer Vision skills to better match the company's needs.

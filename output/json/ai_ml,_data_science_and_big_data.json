@@ -1,0 +1,105 @@
+{
+    "company": {
+        "name": "AI/ML, Data Science and Big Data",
+        "website": "https://aijobs.net/",
+        "industry": "Data Science",
+        "summary": "47,439 jobs in AI/ML, Data Science and Big Data. Find opportunities across entry-level to senior roles.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Advanced data analysis",
+        "Bayesian Methods",
+        "Biostatistics",
+        "Computational statistics",
+        "Data Analysis",
+        "Data Modeling"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "R"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Java",
+            "Docker"
+        ],
+        "strengths": [
+            "Python",
+            "AI",
+            "ML",
+            "Computer Vision"
+        ],
+        "improvement_areas": [
+            "Java",
+            "Docker"
+        ],
+        "reasoning": "The candidate's skills and experience align closely with the company's technology stack, particularly Python, TensorFlow, FastAPI, and AWS. However, they lack knowledge in Java and Docker, which are crucial for some of the services mentioned (e.g., AI Solution Engineer). The recommended services focus on areas where the candidate can realistically offer value to the company."
+    },
+    "recommended_services": [
+        "Advanced data analysis",
+        "Bayesian Methods",
+        "Biostatistics",
+        "Computational statistics",
+        "Data Analysis",
+        "Data Modeling"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "ai",
+            "ml",
+            "computer vision"
+        ],
+        "services": [
+            "Python",
+            "AI",
+            "ML"
+        ]
+    }
+}

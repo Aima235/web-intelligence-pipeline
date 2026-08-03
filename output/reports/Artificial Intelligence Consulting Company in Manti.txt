@@ -1,0 +1,27 @@
+Company: Artificial Intelligence Consulting Company in Manti
+Website: https://www.zfort.com/artificial-intelligence/artificial-intelligence-ai-consulting-in-Manti
+Industry: AI Consulting, FinTech, Healthcare, Insurance, eCommerce and retail, fitness, construction, legal services, real estate, green energy, hospitality, productivity, logistics, wellness
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- AWS
+- Azure
+
+Recommended Services
+-------------------------
+- Custom Software Development
+- Web Development
+- Mobile Application Development
+- Artificial Intelligence Development
+- Blockchain Development
+- Cloud and DevOps
+
+Reasoning
+-------------------------
+The candidate's skills are mostly aligned with the company's services, but there are several missing technologies that do not appear in the candidate profile. The recommended services include projects where the candidate can leverage their existing skills to develop AI solutions tailored to specific industries.

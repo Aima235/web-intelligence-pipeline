@@ -1,0 +1,80 @@
+{
+    "company_name": "Appinventiv",
+    "website": "https://appinventiv.com/ai-development-services/",
+    "industry": "Software Development",
+    "summary": "Appinventiv is a leading software development company that specializes in AI services and solutions. With expertise in areas such as AI chatbot development, generative AI development, ML consulting, and more, Appinventiv empowers businesses with cutting-edge AI technologies.",
+    "services": [
+        "AI Services & Solutions",
+        "AI Development",
+        "AI Consulting",
+        "AI Chatbot Development",
+        "Generative AI Development",
+        "ML Development",
+        "Computer Vision",
+        "AI Copilot Development",
+        "RPA Development",
+        "RAG Development",
+        "AI Governance Consulting",
+        "AI Product Engineering",
+        "AI Voice Agent Development",
+        "ML Consulting"
+    ],
+    "technologies": [
+        "Python",
+        "React",
+        "TensorFlow",
+        "AWS",
+        "Azure",
+        "FastAPI",
+        "Docker",
+        "Kubernetes"
+    ],
+    "ai_opportunities": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "emails": [
+        "info@appinventiv.com"
+    ],
+    "phones": [
+        "+92-300-1234567"
+    ],
+    "careers_page": "",
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "ai_solutions": [],
+    "automation_opportunities": [],
+    "priority_level": "Low",
+    "match_score": 0,
+    "matched_skills": [],
+    "missing_skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "TensorFlow",
+        "PyTorch",
+        "Computer Vision",
+        "NLP",
+        "LLMs",
+        "LangChain",
+        "FastAPI",
+        "React Native",
+        "Next.js",
+        "TypeScript"
+    ],
+    "recommended_services": [],
+    "reasoning": "The candidate has basic knowledge in Python, Machine Learning, Deep Learning, Artificial Intelligence, TensorFlow, PyTorch, Computer Vision, NLP, LLMs, LangChain, FastAPI, React Native, and Next.js. However, the company requires skills such as AI chatbot development, generative AI development, ML consulting, and automation solutions which are not present in the candidate's profile.",
+    "proposal": "",
+    "crawl_status": "Success",
+    "content_snippet": "Artificial Intelligence Development Services & Company\nInventivAI\nExplore AI Tech Solutions\nAI Knowledge Hub\nSee what's possible when AI empowers your enterprise.\nLet's Discuss AI\nLet's Discuss AI\nAI Services & Solutions\nAI Development\nAI Consulting\nAI Chatbot Development\nGenerative AI Development\nGenerative AI Consulting\nAI Agent Development\nAI Integration\nML Development\nComputer Vision\nAI Copilot Development\nRPA Development\nRAG Development\nAI Governance Consulting\nAI Product Engineering\nAI Voice Agent Development\nML Consulting\nSee what's possible when AI empowers your enterprise.\nLet's Discuss AI\nLet's Discuss AI\nRECOMMENDED AI BLOGS\nView All AI Blogs\nHow to Choose the Best AI Agent Development Company for Businesses\n25+ Disruptive AI Agent Business Ideas You Should Launch in 2026\nHow to Hire the Best AI Developer for Your Custom Project? Key Steps, Costs, and More\nHow to Build an AI App? Steps, Features, Costs, Trends\nAI in Transportation: Benefits and Use Cases for Modern Enterpris"
+}

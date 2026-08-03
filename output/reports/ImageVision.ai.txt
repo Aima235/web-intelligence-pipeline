@@ -1,0 +1,21 @@
+Company: ImageVision.ai
+Website: https://imagevision.ai/
+Industry: Computer Vision
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+
+Reasoning
+-------------------------
+The candidate's skills are mostly aligned with the company's technology stack, but there is a significant gap in Docker and AWS technologies. The candidate has experience in Python, Machine Learning, Deep Learning, Artificial Intelligence, TensorFlow, PyTorch, Computer Vision, NLP, LLMs, LangChain, FastAPI, React Native, Next.js, TypeScript, which are all present in the company's technology list. However, the lack of Docker and AWS skills makes it a weak match.

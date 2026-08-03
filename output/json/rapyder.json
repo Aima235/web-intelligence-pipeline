@@ -1,0 +1,93 @@
+{
+    "company": {
+        "name": "Rapyder",
+        "website": "https://www.rapyder.com/solutions/cloud-artificial-intelligence-and-machine-learning/",
+        "industry": "AI / ML",
+        "summary": "Rapyder leverages deep expertise in AI & ML along with advanced cloud capabilities to deliver scalable, secure, and high-performance AI solutions. By adopting AI & ML services, businesses can unlock new possibilities, improve efficiency, and stay competitive in an evolving digital landscape.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Cloud Migration",
+        "Data Analytics",
+        "VDI",
+        "Managed Cloud Services",
+        "Modernization"
+    ],
+    "technologies": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights",
+        "Manual workflows"
+    ],
+    "business_gaps": [
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights",
+        "Manual workflows"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "Kubernetes"
+        ],
+        "strengths": [
+            "Python",
+            "AI",
+            "ML",
+            "Computer Vision"
+        ],
+        "improvement_areas": [
+            "Docker",
+            "Kubernetes"
+        ],
+        "reasoning": "The candidate has strong skills in Python, AI, ML, and Computer Vision. However, they lack experience with Docker and Kubernetes, which are key technologies for the company's cloud migration services. The recommended service is an AI and ML provider, as it aligns well with the company's focus on leveraging AI & ML along with advanced cloud capabilities."
+    },
+    "recommended_services": [
+        "AI and ML Service Provider"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "ai",
+            "ml",
+            "computer vision"
+        ],
+        "services": [
+            "Python",
+            "AI",
+            "ML"
+        ]
+    }
+}

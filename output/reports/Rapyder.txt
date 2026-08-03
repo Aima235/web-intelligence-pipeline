@@ -1,0 +1,22 @@
+Company: Rapyder
+Website: https://www.rapyder.com/solutions/cloud-artificial-intelligence-and-machine-learning/
+Industry: AI / ML
+
+Match Score: 0%
+Priority: Medium
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- Kubernetes
+
+Recommended Services
+-------------------------
+- AI and ML Service Provider
+
+Reasoning
+-------------------------
+The candidate has strong skills in Python, AI, ML, and Computer Vision. However, they lack experience with Docker and Kubernetes, which are key technologies for the company's cloud migration services. The recommended service is an AI and ML provider, as it aligns well with the company's focus on leveraging AI & ML along with advanced cloud capabilities.

@@ -1,0 +1,60 @@
+{
+    "company_name": "IBM",
+    "website": "https://www.ibm.com/consulting/artificial-intelligence",
+    "industry": "AI Services and Consulting",
+    "summary": "IBM Consulting helps organizations scale AI with strategy, engineering, and AI-powered delivery.",
+    "services": [
+        "AI strategy and governance",
+        "Data services",
+        "Agentic AI"
+    ],
+    "technologies": [
+        "Python",
+        "React",
+        "TensorFlow",
+        "AWS",
+        "Azure",
+        "FastAPI",
+        "Docker",
+        "Kubernetes"
+    ],
+    "ai_opportunities": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "emails": [
+        "info@ibm.com"
+    ],
+    "phones": [
+        "+1-800-IBM-Care"
+    ],
+    "careers_page": "",
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "ai_solutions": [],
+    "automation_opportunities": [],
+    "priority_level": "Low",
+    "match_score": 0,
+    "matched_skills": [],
+    "missing_skills": [
+        "AWS",
+        "Azure"
+    ],
+    "recommended_services": [
+        "AI Chatbot Development",
+        "Predictive Analytics"
+    ],
+    "reasoning": "The candidate profile indicates proficiency in Python, Machine Learning, Deep Learning, Artificial Intelligence, TensorFlow, PyTorch, Computer Vision, NLP, and LLMs. However, the company requires skills such as AWS and Azure which are not present in the candidate's skill set. The recommended services include AI Chatbot Development and Predictive Analytics, which align with the company's need for an enterprise agentic platform.",
+    "proposal": "",
+    "crawl_status": "Success",
+    "content_snippet": "Artificial Intelligence (AI) Services and Consulting | IBM\nHome\nConsulting\nArtificial Intelligence\nArtificial intelligence (AI) consulting services\nLeading the way in generative AI with over 75K trained consultants\nThe need for an enterprise agentic platform\nUnlock the full potential of AI\nBy 2030, AI is expected to drive up to USD 4.4 trillion in annual productivity gains. Yet, many companies struggle to achieve and scale value from AI.\nTo successfully scale AI, the right strategy, data, architecture, security and governance need to be in place and aligned with business goals. We help clients do this transformation by designing, building and scaling cutting‑edge AI and agentic AI solutions that accelerate strategic imperatives and enable people to trust the AI models that support them. We meet you at your current state, no matter your skills or technical footprint.\nIBM Consulting® helps you do the right AI and do AI right.\nreport\nIBM Consulting named a Leader in The Forrester Wave™\nLe"
+}

@@ -1,0 +1,87 @@
+{
+    "company": {
+        "name": "MindRind",
+        "website": "https://mindrind.net/computer-vision-solutions/",
+        "industry": "Computer Vision Solutions",
+        "summary": "MindRind offers AI-driven computer vision solutions for automation and analytics. We specialize in edge and cloud inference, with SOC2 and HIPAA compliance. Our services include defect detection, document reading, asset tracking, and quality control.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Generative AI Consulting",
+        "Image & Video Generation",
+        "AI Automation",
+        "Business Process Automation",
+        "Intelligent Process Automation",
+        "Internal Knowledge Base Bots"
+    ],
+    "technologies": [
+        "Edge and cloud inference",
+        "SOC2 and HIPAA ready"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [
+        "No AI-driven computer vision solutions for automation and analytics",
+        "Lack of internal knowledge base bots"
+    ],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Internal Knowledge Base Bots"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ],
+        "strengths": [
+            "Python",
+            "AI",
+            "ML",
+            "Computer Vision"
+        ],
+        "improvement_areas": [
+            "Docker",
+            "AWS"
+        ],
+        "reasoning": "The candidate has strong skills in Python, AI, ML, and Computer Vision. However, they lack experience with Docker and AWS, which are important technologies for the company's services. The recommended services focus on delivering AI Chatbot Development and Internal Knowledge Base Bots, which align well with the company's needs."
+    },
+    "recommended_services": [
+        "AI Chatbot Development",
+        "Internal Knowledge Base Bots"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "ai",
+            "ml",
+            "computer vision"
+        ],
+        "services": [
+            "Python",
+            "AI",
+            "ML"
+        ]
+    }
+}

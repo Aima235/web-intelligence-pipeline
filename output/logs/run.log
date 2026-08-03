@@ -1,0 +1,245 @@
+[2026-07-23 20:15:58] ========== NEW RUN STARTED ==========
+[2026-07-23 20:25:12] Crawling https://rtslabs.com/ai-software-development-company-in-usa
+[2026-07-23 20:27:48] Extraction completed: Addepto
+[2026-07-23 20:29:49] Gap analysis completed: Addepto
+[2026-07-23 21:23:42] ========== NEW RUN STARTED ==========
+[2026-07-24 11:03:06] ========== NEW RUN STARTED ==========
+[2026-07-24 11:23:08] Crawling https://imagevision.ai/
+[2026-07-24 11:27:19] Extraction completed: ImageVision.ai
+[2026-07-24 11:30:11] Gap analysis completed: ImageVision.ai
+[2026-07-24 11:33:22] Match Score: ImageVision.ai = 0%
+[2026-07-24 11:33:23] JSON exported for ImageVision.ai
+[2026-07-24 11:33:23] Crawling https://computervisioncompany.com/
+[2026-07-24 11:34:07] Crawling https://roboflow.com/
+[2026-07-24 11:37:42] Extraction completed: Roboflow
+[2026-07-24 11:39:24] Gap analysis completed: Roboflow
+[2026-07-24 11:41:11] ========== NEW RUN STARTED ==========
+[2026-07-24 11:41:43] Match Score: Roboflow = 0%
+[2026-07-24 11:41:44] JSON exported for Roboflow
+[2026-07-24 11:41:44] Crawling https://futureaitechnology.com/
+[2026-07-24 11:51:25] Extraction completed: FutureAI Tech
+[2026-07-24 11:53:55] Gap analysis completed: FutureAI Tech
+[2026-07-24 11:56:47] Match Score: FutureAI Tech = 90%
+[2026-07-24 12:14:25] Crawling https://mentorcruise.com/consultant/artificialintelligence/
+[2026-07-24 12:18:04] Extraction completed: Expert Artificial Intelligence Consulting Services
+[2026-07-24 12:19:42] Gap analysis completed: Expert Artificial Intelligence Consulting Services
+[2026-07-24 12:22:08] Match Score: Expert Artificial Intelligence Consulting Services = 90%
+[2026-07-24 12:30:19] Proposal saved for Expert Artificial Intelligence Consulting Services
+[2026-07-24 12:30:19] JSON exported for Expert Artificial Intelligence Consulting Services
+[2026-07-24 12:30:19] Crawling https://www.bcg.com/
+[2026-07-24 12:30:33] Crawling https://dremymarketing.com/artificial-intelligence-consulting/
+[2026-07-24 12:33:31] Extraction completed: Dremy Marketing
+[2026-07-24 12:34:33] Gap analysis completed: Dremy Marketing
+[2026-07-24 12:36:19] Match Score: Dremy Marketing = 0%
+[2026-07-24 12:36:19] JSON exported for Dremy Marketing
+[2026-07-24 12:36:19] Crawling https://www.zfort.com/artificial-intelligence/artificial-intelligence-ai-consulting-in-Manti
+[2026-07-24 12:39:46] Extraction completed: Artificial Intelligence Consulting Company in Manti
+[2026-07-24 12:41:02] Gap analysis completed: Artificial Intelligence Consulting Company in Manti
+[2026-07-24 12:42:50] Match Score: Artificial Intelligence Consulting Company in Manti = 0%
+[2026-07-24 12:42:50] JSON exported for Artificial Intelligence Consulting Company in Manti
+[2026-07-24 12:42:50] Crawling https://www.mdesignworks.co.uk/ai-consultancy
+[2026-07-24 12:45:27] Extraction completed: M Design Works
+[2026-07-24 12:46:29] Gap analysis completed: M Design Works
+[2026-07-24 12:48:07] Match Score: M Design Works = 0%
+[2026-07-24 12:48:07] JSON exported for M Design Works
+[2026-07-24 12:48:07] Crawling https://www.bain.com/
+[2026-07-24 12:51:04] Extraction completed: Bain & Company
+[2026-07-24 12:52:28] Gap analysis completed: Bain & Company
+[2026-07-24 12:54:21] Match Score: Bain & Company = 0%
+[2026-07-24 12:54:21] JSON exported for Bain & Company
+[2026-07-24 12:54:21] Crawling https://www.itransition.com/
+[2026-07-24 12:57:59] Extraction completed: Itransition
+[2026-07-24 12:59:35] Gap analysis completed: Itransition
+[2026-07-24 13:02:14] Match Score: Itransition = 90%
+[2026-07-24 13:06:40] Proposal saved for Itransition
+[2026-07-24 13:06:40] JSON exported for Itransition
+[2026-07-24 13:06:40] Crawling https://digitalpassion.ch/artificial-intelligence-consulting-company-in-bern/
+[2026-07-24 13:09:36] Extraction completed: AI Consulting Services in Bern
+[2026-07-24 13:10:34] Gap analysis completed: AI Consulting Services in Bern
+[2026-07-24 13:12:25] Match Score: AI Consulting Services in Bern = 0%
+[2026-07-24 13:12:25] JSON exported for AI Consulting Services in Bern
+[2026-07-24 13:12:25] Crawling https://tekonika.co/ai-consulting
+[2026-07-24 13:14:51] Extraction completed: Tekonika Technologies
+[2026-07-24 13:15:46] Gap analysis completed: Tekonika Technologies
+[2026-07-24 13:17:26] Match Score: Tekonika Technologies = 0%
+[2026-07-24 13:17:26] JSON exported for Tekonika Technologies
+[2026-07-24 13:17:26] Crawling https://www.ksolves.com/ai-ml-services
+[2026-07-24 13:21:45] Extraction completed: Ksolves
+[2026-07-24 13:23:20] Gap analysis completed: Ksolves
+[2026-07-24 13:25:52] Match Score: Ksolves = 0%
+[2026-07-24 13:25:52] JSON exported for Ksolves
+[2026-07-24 13:25:52] Crawling https://superbcompanies.com/categories/machine-learning-companies-in-pakistan/
+[2026-07-24 13:26:03] Crawling https://www.aiconsult.cloud/
+[2026-07-24 13:26:04] Crawling https://www.width.ai/
+[2026-07-24 13:26:04] Crawling https://metic.ai/generative-ai-services-in-vizag/
+[2026-07-24 13:26:04] Crawling https://reapmind.com/generative-ai-development-company-in-bangalore/
+[2026-07-24 13:26:04] Crawling https://www.calameo.com/books/0077982336d07ddf9cd10
+[2026-07-24 13:26:04] Crawling https://www.golocalads.com/ads/generative-ai-company-amplework/
+[2026-07-24 13:26:04] Crawling https://www.recraft.ai/
+[2026-07-24 13:26:04] Crawling https://decart.ai/
+[2026-07-24 13:26:04] Crawling https://www.prismetric.com/llm-development-companies/
+[2026-07-24 13:26:04] Crawling https://www.openxcell.com/llm-development/
+[2026-07-24 13:26:04] Crawling https://www.xicom.biz/llm-development-services/
+[2026-07-24 13:26:04] Crawling https://www.bacancytechnology.com/large-language-model-development
+[2026-07-24 13:26:04] Crawling https://webmobtech.com/llm-development-services/
+[2026-07-24 13:26:04] Crawling https://orionesolutions.com/large-language-model-development/
+[2026-07-24 13:26:04] Crawling https://www.shapr3d.com/history-of-cad/computervision
+[2026-07-24 13:26:04] Crawling https://www.encyclopedia.com/books/politics-and-business-magazines/computervision-corporation
+[2026-07-24 13:26:04] Crawling https://builtin.com/artificial-intelligence/computer-vision-companies-startups
+[2026-07-24 13:26:04] Crawling https://viso.ai/computer-vision/most-popular-computer-vision-companies-and-startups/
+[2026-07-24 13:26:04] Crawling https://www.kitware.com/computer-vision/
+[2026-07-24 13:26:04] Crawling https://fastdatascience.com/natural-language-processing/nlp-company/
+[2026-07-24 13:26:04] Crawling https://www.datamation.com/artificial-intelligence/natural-language-processing-providers/
+[2026-07-24 13:26:04] Crawling https://www.thenlpgroup.net/
+[2026-07-24 13:26:04] Crawling https://grokipedia.com/page/AI_Automation_Agency
+[2026-07-24 13:26:04] Crawling https://www.aiautomationinc.com/
+[2026-07-24 13:26:04] Crawling https://www.automationanywhere.com/
+[2026-07-24 13:26:04] Crawling https://ai.tekrevol.com/ai-automation
+[2026-07-24 13:26:05] Crawling https://theaiautomationagency.ai/
+[2026-07-24 13:26:05] Crawling https://www.brihaspatitech.com/ai/ai-automation-agency/
+[2026-07-24 13:26:05] Crawling https://andersenlab.com/
+[2026-07-24 13:26:05] Crawling https://www.zinavo.com/python-web-development-company-in-bangalore-india.html
+[2026-07-24 13:26:05] Crawling https://nextbrain.ca/best-django-python-development-company-toronto/
+[2026-07-24 13:26:05] Crawling https://www.python.org/downloads/
+[2026-07-24 13:26:05] Crawling https://developer.lumen.com/
+[2026-07-24 13:26:05] Crawling https://www.boot.dev/
+[2026-07-24 13:26:05] Crawling https://lovable.dev/
+[2026-07-24 13:26:05] Crawling https://swovo.com/services/fastapi-software-development/
+[2026-07-24 13:26:05] Best match: Expert Artificial Intelligence Consulting Services with a score of 90%
+[2026-07-24 13:26:05] Best match: Itransition with a score of 90%
+[2026-07-24 13:26:05] Best match: Dremy Marketing with a score of 0%
+[2026-07-24 13:26:05] Best match: Artificial Intelligence Consulting Company in Manti with a score of 0%
+[2026-07-24 13:26:05] Best match: M Design Works with a score of 0%
+[2026-07-24 13:26:05] Best match: Bain & Company with a score of 0%
+[2026-07-24 13:26:05] Best match: AI Consulting Services in Bern with a score of 0%
+[2026-07-24 13:26:05] Best match: Tekonika Technologies with a score of 0%
+[2026-07-24 13:26:05] Best match: Ksolves with a score of 0%
+[2026-07-24 13:26:05] ========== RUN FINISHED ==========
+[2026-07-27 14:07:45] ========== NEW RUN STARTED ==========
+[2026-07-27 14:25:42] ========== NEW RUN STARTED ==========
+[2026-07-27 14:36:18] Crawling https://www.aman-ag.tech/
+[2026-07-27 14:51:54] Crawling https://node-3minds.vercel.app/services/ai-and-ml-solutions
+[2026-07-27 14:56:06] Extraction completed: NODE
+[2026-07-27 14:59:15] Gap analysis completed: NODE
+[2026-07-27 15:46:12] ========== NEW RUN STARTED ==========
+[2026-07-27 16:04:46] Crawling https://intellias.com/machine-learning-artificial-intelligence-development-services/
+[2026-07-27 16:08:43] Extraction completed: Intellias
+[2026-07-27 16:10:10] Gap analysis completed: Intellias
+[2026-07-27 16:12:11] Match Score: Intellias = 0%
+[2026-07-27 16:12:11] JSON exported for Intellias
+[2026-07-27 16:12:11] Crawling https://intetics.com/services/ai-ml-powered-solutions/
+[2026-07-27 16:16:17] Extraction completed: Intetics Inc.
+[2026-07-27 16:18:00] Gap analysis completed: Intetics Inc.
+[2026-07-27 16:20:07] Match Score: Intetics Inc. = 80%
+[2026-07-27 17:01:23] ========== NEW RUN STARTED ==========
+[2026-07-27 17:17:51] Crawling https://www.opinosis-analytics.com/
+[2026-07-27 17:22:19] Extraction completed: Opinosis Analytics
+[2026-07-27 17:24:12] Gap analysis completed: Opinosis Analytics
+[2026-07-27 17:26:20] Match Score: Opinosis Analytics = 70%
+[2026-07-29 12:14:56] ========== NEW RUN STARTED ==========
+[2026-07-29 12:34:30] Crawling https://www.s4dtech.com/
+[2026-07-29 12:38:30] Extraction completed: S4D Tech
+[2026-07-29 12:41:42] Gap analysis completed: S4D Tech
+[2026-07-29 12:44:31] Match Score: S4D Tech = 0%
+[2026-07-29 12:44:31] JSON exported for S4D Tech
+[2026-07-29 12:44:31] Crawling https://innovasolutions.com/solutions/technology-solutions/ai-and-automation/ai-ml/
+[2026-07-29 12:47:31] Extraction completed: AIFICIENT
+[2026-07-29 12:48:52] Gap analysis completed: AIFICIENT
+[2026-07-29 12:50:59] Match Score: AIFICIENT = 70%
+[2026-07-29 13:43:38] ========== NEW RUN STARTED ==========
+[2026-07-29 14:00:12] Crawling https://www.softwaretestinghelp.com/machine-learning-companies/
+[2026-07-29 14:02:44] Crawling https://www.consultedge.global/ai-ml-services
+[2026-07-29 14:07:55] Extraction completed: ConsultEdge
+[2026-07-29 14:10:42] Gap analysis completed: ConsultEdge
+[2026-07-29 14:13:29] Match Score: ConsultEdge = 0%
+[2026-07-29 14:13:29] JSON exported for ConsultEdge
+[2026-07-29 14:13:29] Crawling https://mindrind.net/computer-vision-solutions/
+[2026-07-29 14:17:07] Extraction completed: MindRind
+[2026-07-29 14:18:36] Gap analysis completed: MindRind
+[2026-07-29 14:20:35] Match Score: MindRind = 0%
+[2026-07-29 14:20:36] JSON exported for MindRind
+[2026-07-29 14:20:36] Crawling https://fractal.ai/enterprise-ai/image-video-analytics/
+[2026-07-29 14:20:58] Crawling https://www.rapyder.com/solutions/cloud-artificial-intelligence-and-machine-learning/
+[2026-07-29 14:24:38] Extraction completed: Rapyder
+[2026-07-29 14:26:16] Gap analysis completed: Rapyder
+[2026-07-29 14:28:12] Match Score: Rapyder = 0%
+[2026-07-29 14:28:12] JSON exported for Rapyder
+[2026-07-29 14:28:12] Crawling https://mlexperts.ai/
+[2026-07-29 14:31:38] Extraction completed: MLExperts.ai
+[2026-07-29 14:33:11] Gap analysis completed: MLExperts.ai
+[2026-07-29 14:35:32] Match Score: MLExperts.ai = 0%
+[2026-07-29 14:35:32] JSON exported for MLExperts.ai
+[2026-07-29 14:35:32] Crawling https://aimlmarketplace.com/ai-ml-providers/
+[2026-07-29 14:39:04] Extraction completed: Empirical Edge Inc.
+[2026-07-29 14:40:34] Gap analysis completed: Empirical Edge Inc.
+[2026-07-29 14:42:50] Match Score: Empirical Edge Inc. = 0%
+[2026-07-29 14:42:50] JSON exported for Empirical Edge Inc.
+[2026-07-29 14:42:50] Crawling https://aijobs.net/
+[2026-07-29 14:49:39] Extraction completed: AI/ML, Data Science and Big Data
+[2026-07-29 14:52:19] Gap analysis completed: AI/ML, Data Science and Big Data
+[2026-07-29 14:55:27] Match Score: AI/ML, Data Science and Big Data = 0%
+[2026-07-29 14:55:27] JSON exported for AI/ML, Data Science and Big Data
+[2026-07-29 16:27:44] ========== NEW RUN STARTED ==========
+[2026-07-29 16:47:44] Crawling https://artificialintelligence.oodles.io/services/machine-learning-development-services/pytorch-development-company/
+[2026-07-29 16:50:37] Extraction completed: PyTorch Development Company
+[2026-07-29 16:52:07] Gap analysis completed: PyTorch Development Company
+[2026-07-29 16:54:16] Match Score: PyTorch Development Company = 90%
+[2026-07-30 11:47:59] ========== NEW RUN STARTED ==========
+[2026-07-30 12:09:56] Crawling https://www.vizworld.ai/
+[2026-07-30 12:10:12] Crawling https://www.insight.com/en_US/what-we-do/expertise/data-and-ai/computer-vision.html
+[2026-07-30 12:14:02] Extraction completed: Insight
+[2026-07-30 12:16:24] Gap analysis completed: Insight
+[2026-07-30 12:18:46] Match Score: Insight = 0%
+[2026-07-30 12:18:46] JSON exported for Insight
+[2026-07-30 12:18:46] Crawling https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/computer-vision.html
+[2026-07-30 12:19:00] Crawling http://mentality.ai/
+[2026-07-30 12:20:55] Extraction completed: Mentality.ai
+[2026-07-30 12:21:51] Gap analysis completed: Mentality.ai
+[2026-07-30 12:23:43] Match Score: Mentality.ai = 0%
+[2026-07-30 12:23:43] JSON exported for Mentality.ai
+[2026-07-30 12:23:43] Crawling https://viso.ai/computer-vision/most-popular-computer-vision-companies-and-startups/
+[2026-07-30 12:26:50] Extraction completed: viso.ai
+[2026-07-30 12:28:01] Gap analysis completed: viso.ai
+[2026-07-30 12:30:16] Match Score: viso.ai = 90%
+[2026-07-30 12:34:17] Proposal saved for viso.ai
+[2026-07-30 12:34:17] JSON exported for viso.ai
+[2026-07-30 12:34:17] Crawling https://citrusbug.com/services/computer-vision-solution-consulting/
+[2026-07-30 12:38:03] Extraction completed: Citrusbug
+[2026-07-30 12:39:13] Gap analysis completed: Citrusbug
+[2026-07-30 12:41:41] Match Score: Citrusbug = 70%
+[2026-07-30 12:46:11] Proposal saved for Citrusbug
+[2026-07-30 12:46:11] JSON exported for Citrusbug
+[2026-07-30 12:46:11] Crawling https://alwaysai.co/
+[2026-07-30 12:49:49] Extraction completed: alwaysAI
+[2026-07-30 12:51:34] Gap analysis completed: alwaysAI
+[2026-07-30 12:54:17] Match Score: alwaysAI = 90%
+[2026-07-30 12:59:45] Proposal saved for alwaysAI
+[2026-07-30 12:59:46] JSON exported for alwaysAI
+[2026-07-30 12:59:46] Best match: viso.ai with a score of 90%
+[2026-07-30 12:59:46] Best match: alwaysAI with a score of 90%
+[2026-07-30 12:59:46] Best match: Citrusbug with a score of 70%
+[2026-07-30 12:59:46] Best match: Insight with a score of 0%
+[2026-07-30 12:59:46] Best match: Mentality.ai with a score of 0%
+[2026-07-30 12:59:46] ========== RUN FINISHED ==========
+[2026-07-30 14:04:08] ========== NEW RUN STARTED ==========
+[2026-07-30 14:26:32] Crawling https://www.llmsoftware.com/
+[2026-07-30 14:30:04] Extraction completed: LLMSoftware.com
+[2026-07-30 14:33:21] Gap analysis completed: LLMSoftware.com
+[2026-07-30 14:36:03] Match Score: LLMSoftware.com = 90%
+[2026-07-30 14:44:11] Proposal saved for LLMSoftware.com
+[2026-07-30 14:44:11] JSON exported for LLMSoftware.com
+[2026-07-30 14:44:11] Crawling https://ml.cms.waikato.ac.nz/weka/
+[2026-07-30 14:44:41] Crawling https://www.saviantconsulting.com/machine-learning-consulting.aspx
+[2026-07-30 14:48:48] Extraction completed: Saviant
+[2026-07-30 14:50:48] Gap analysis completed: Saviant
+[2026-07-30 14:53:16] Match Score: Saviant = 0%
+[2026-07-30 14:53:16] JSON exported for Saviant
+[2026-07-30 14:53:16] Crawling https://resolvetech.com/machine-learning-consulting-enterprises-operational-results/
+[2026-07-30 14:57:11] Extraction completed: Resolve Tech Solutions
+[2026-07-30 14:58:33] Gap analysis completed: Resolve Tech Solutions
+[2026-07-30 15:00:39] Match Score: Resolve Tech Solutions = 0%
+[2026-07-30 15:00:39] JSON exported for Resolve Tech Solutions
+[2026-07-30 15:00:39] Best match: LLMSoftware.com with a score of 90%
+[2026-07-30 15:00:39] Best match: Saviant with a score of 0%
+[2026-07-30 15:00:39] Best match: Resolve Tech Solutions with a score of 0%
+[2026-07-30 15:00:39] ========== RUN FINISHED ==========

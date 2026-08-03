@@ -1,0 +1,30 @@
+Company: alwaysAI
+Website: https://alwaysai.co/
+Industry: Computer Vision Solutions
+
+Match Score: 90%
+Priority: Low
+
+Matched Skills
+-------------------------
+- Python
+- React Native
+- PyTorch
+- Computer Vision
+- Natural Language Processing (NLP)
+- Mobile Application Development
+
+Missing Skills
+-------------------------
+
+Recommended Services
+-------------------------
+- Object Detection Apps and Software for Business
+- Automated Anomaly Detection in Manufacturing
+- What is Object Tracking and Re-Identification
+- What YOLO Model Architecture Is Best for You?
+- Computer Vision is Not Generative AI, It's Practical AI
+
+Reasoning
+-------------------------
+The candidate has strong proficiency in multiple technologies relevant to the company's industry, including Python, React Native, PyTorch, Computer Vision, and NLP. The candidate also has experience with mobile application development, which aligns well with the services provided by alwaysAI. The missing skills are related to object tracking/re-identification and YOLO model architecture, but these can be addressed through additional training or research.

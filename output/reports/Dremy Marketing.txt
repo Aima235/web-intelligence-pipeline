@@ -1,0 +1,25 @@
+Company: Dremy Marketing
+Website: https://dremymarketing.com/artificial-intelligence-consulting/
+Industry: Artificial Intelligence Consulting
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- AI Strategy Development
+- Integration Planning
+- Implementation Support
+- Data-Driven Decision Making
+
+Reasoning
+-------------------------
+The candidate's skills and projects are aligned with the company's AI consulting services, but there is a lack of knowledge in technologies like Docker and AWS. The recommended services focus on areas where the candidate can leverage their existing skills to provide measurable results.

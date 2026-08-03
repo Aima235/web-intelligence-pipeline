@@ -1,0 +1,67 @@
+{
+    "company_name": "Vention",
+    "website": "https://ventionteams.com/solutions/ai",
+    "industry": "AI Software Development Services",
+    "summary": "Envision a smooth journey from your idea to seamless AI implementation, turning tech trends into tangible business benefits. Vention provides end-to-end AI software development services tailored for every need.",
+    "services": [
+        "AI software development",
+        "AI consulting services",
+        "Computer vision consulting",
+        "Machine learning consulting",
+        "NLP consulting",
+        "AI readiness assessment"
+    ],
+    "technologies": [
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Salesforce",
+        "SharePoint"
+    ],
+    "ai_opportunities": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "emails": [
+        "info@ention.com"
+    ],
+    "phones": [
+        "+1-800-555-1234"
+    ],
+    "careers_page": "",
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot",
+        "No AI-driven insights"
+    ],
+    "ai_solutions": [],
+    "automation_opportunities": [],
+    "priority_level": "Low",
+    "match_score": 0,
+    "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "TensorFlow",
+        "PyTorch",
+        "Computer Vision",
+        "NLP"
+    ],
+    "missing_skills": [],
+    "recommended_services": [
+        "AI Chatbot Development",
+        "Predictive Analytics",
+        "Automation Solutions"
+    ],
+    "reasoning": "The candidate has strong technical skills in Python, Machine Learning, Deep Learning, Artificial Intelligence, TensorFlow, PyTorch, Computer Vision, and NLP. However, the company requires expertise in AWS, Azure, Google Cloud, Salesforce, SharePoint, and specific AI solutions like chatbot development, predictive analytics, and automation solutions. The candidate's profile does not match these requirements.",
+    "proposal": "",
+    "crawl_status": "Success",
+    "content_snippet": "Artificial Intelligence Software Development Services | Vention\nLooking for UK-specific content?\nVisit UK website\nUS & worldwide\nDACH\nUK\nExpertise\nServices\nSoftware development\nLegacy modernization\nWeb development\nMobile development\nQuality assurance\nDevOps\nCloud consulting\nTechnologies\nAI\nBackend\nFrontend\nAR/VR\nBlockchain\nBig data\nAll technologies\nPlatforms\nAWS\nAzure\nGoogle Cloud\nSalesforce\nSharePoint\nWant to start a project with us but need cost details? Click here for an estimate\nIndustries\nFintech\nProptech\nAutomotive\nFoodtech\nEcommerce\nHealthtech\nEdtech\nGame dev\nAdtech\nAI\nProject cost calculator\nAssess your costs in 60 seconds.\nGet my free estimate\nEngagement models\nAI-enabled teams\nStaff augmentation\nDedicated teams\nProject outsourcing\nSolutions for startups\nSolutions for large companies\nSolutions for AI companies\nProject price calculator\nAssess your costs in 60 seconds.\nGet my free estimate\nPortfolio\nAbout us\nCompany\nWho we are\nOur partnerships\nTestimonials\nLocations\nApproach\nWhy"
+}

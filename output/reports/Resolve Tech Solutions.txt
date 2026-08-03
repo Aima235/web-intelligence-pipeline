@@ -1,0 +1,24 @@
+Company: Resolve Tech Solutions
+Website: https://resolvetech.com/machine-learning-consulting-enterprises-operational-results/
+Industry: AI Consulting
+
+Match Score: 0%
+Priority: Medium
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- SAP S/4HANA
+- AWS SageMaker
+- Azure Machine Learning
+- Google Vertex AI
+
+Recommended Services
+-------------------------
+- Machine Learning Consulting
+
+Reasoning
+-------------------------
+The candidate has strong Python and AI skills but lacks knowledge in the specific technologies required by the company. The company focuses on areas like machine learning consulting, which is not covered in the candidate's profile.

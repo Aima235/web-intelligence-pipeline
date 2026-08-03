@@ -1,0 +1,62 @@
+{
+    "company": {
+        "name": "Roboflow",
+        "website": "https://roboflow.com/",
+        "industry": "Computer vision",
+        "summary": "Over 1 million engineers deploy visual intelligence for video, images, and real-time streams with Roboflow. Over 16,000 organizations build with Roboflow.",
+        "location": ""
+    },
+    "services": [
+        "Deploy models on device, at the edge, in your VPC, or via API",
+        "Workflows: Low-code interface to build pipelines and applications",
+        "Train: Hosted model training infrastructure and GPU access",
+        "Annotate: Label images fast with AI-assisted data annotation"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "AI Code Modernization Assistant",
+        "Predictive Analytics Platform",
+        "Machine Learning Forecasting",
+        "Semantic Search",
+        "Recommendation Systems",
+        "AI Agents",
+        "Agentic AI"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "AWS",
+            "Azure"
+        ]
+    },
+    "recommended_services": [
+        "AI Development",
+        "Machine Learning Solutions",
+        "LLM Applications",
+        "AI Automation",
+        "Computer Vision"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "company": {
+        "name": "AI Consulting Services in Bern",
+        "website": "https://digitalpassion.ch/artificial-intelligence-consulting-company-in-bern/",
+        "industry": "Artificial Intelligence Consulting",
+        "summary": "AI Consulting Services in Bern, Switzerland. Expertise in Data & AI Consulting, Comprehensive Data & AI Solutions, Generative AI Services.",
+        "location": ""
+    },
+    "services": [
+        "Data & AI Consulting",
+        "Data & AI solutions",
+        "Generative AI Services"
+    ],
+    "technologies": [],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ]
+    },
+    "recommended_services": [
+        "AI Development",
+        "Machine Learning Solutions",
+        "LLM Applications",
+        "AI Automation",
+        "Computer Vision"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

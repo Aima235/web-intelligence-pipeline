@@ -1,0 +1,81 @@
+{
+    "company": {
+        "name": "Ksolves",
+        "website": "https://www.ksolves.com/ai-ml-services",
+        "industry": "Software Development",
+        "summary": "Ksolves offers AI and ML consulting services to enhance productivity. Services include Big Data, Snowflake, Databricks, Salesforce Services, Odoo, DevOps, RFP Consulting, Cyber Security, and more. Technologies like Apache NiFi, Cassandra, Kafka, Spark, Hadoop, Druid, Thanos, MongoDB, Rook Ceph, Prometheus, Grafana are used. AI opportunities include Data Flow Manager, Dashboard Ninja with AI, Mind AI Ninja, Salesforce CTI Integration, MicroStrategy. Pain points involve manual workflows, limited automation, no chatbot, poor personalization, and lack of AI-driven insights.",
+        "location": ""
+    },
+    "services": [
+        "Big Data",
+        "Snowflake",
+        "Databricks",
+        "Salesforce Services",
+        "Odoo",
+        "DevOps",
+        "RFP Consulting",
+        "Cyber Security"
+    ],
+    "technologies": [
+        "Apache NiFi",
+        "Apache Cassandra",
+        "Apache Kafka",
+        "Apache Spark",
+        "Apache Hadoop",
+        "Apache Druid",
+        "Thanos",
+        "MongoDB",
+        "Rook Ceph",
+        "Prometheus",
+        "Grafana"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "Apache NiFi",
+            "Cassandra",
+            "Kafka",
+            "Spark",
+            "Hadoop",
+            "Druid",
+            "Thanos",
+            "MongoDB",
+            "Rook Ceph",
+            "Prometheus",
+            "Grafana"
+        ]
+    },
+    "recommended_services": [
+        "AI Development",
+        "Machine Learning Solutions",
+        "LLM Applications",
+        "AI Automation",
+        "Computer Vision"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

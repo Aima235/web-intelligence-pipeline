@@ -1,0 +1,107 @@
+{
+    "company": {
+        "name": "Saviant",
+        "website": "https://www.saviantconsulting.com/machine-learning-consulting.aspx",
+        "industry": "AI Machine Learning Consulting",
+        "summary": "Saviant provides custom machine learning solutions that predict failures, minimize downtime, and drive operational intelligence with more than 90% accuracy. Their services include capability maturity assessments, industrial IoT consulting, machine learning consulting, data analytics consulting, Azure cloud consulting, digital twins consulting, and generative AI consulting.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Capability Maturity Assessments",
+        "Industrial IoT Consulting",
+        "Machine Learning Consulting",
+        "Data Analytics Consulting",
+        "Azure Cloud Consulting",
+        "Digital Twins Consulting"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Limited valuable datasets combined with hard-coded, disjointed business rules at the backend",
+        "Decision-making needed to achieve truly fault-free operations often remains slow and reactive"
+    ],
+    "business_gaps": [
+        "Limited valuable datasets combined with hard-coded, disjointed business rules at the backend",
+        "Decision-making needed to achieve truly fault-free operations often remains slow and reactive"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "AWS",
+            "Docker"
+        ],
+        "strengths": [
+            "Python",
+            "AI",
+            "Machine Learning",
+            "Natural Language Processing"
+        ],
+        "improvement_areas": [
+            "AWS",
+            "Docker"
+        ],
+        "reasoning": "The candidate has strong skills in Python, AI, Machine Learning, and Natural Language Processing. However, they lack knowledge of AWS and Docker, which are crucial for the company's services involving Azure cloud consulting and digital twins consulting."
+    },
+    "recommended_services": [
+        "Capability Maturity Assessments",
+        "Industrial IoT Consulting",
+        "Machine Learning Consulting",
+        "Data Analytics Consulting",
+        "Azure Cloud Consulting",
+        "Digital Twins Consulting"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [
+            "1-(862) 288-3954"
+        ],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima Khan",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "AI",
+            "Machine Learning",
+            "natural language proceesing",
+            "pytorch",
+            "tensorflow",
+            "keras",
+            "kubernetes",
+            "llm",
+            "agentic ai",
+            "generative ai"
+        ],
+        "services": [
+            "PyTorch",
+            "TensorFlow",
+            "Keras"
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "company": {
+        "name": "Tekonika Technologies",
+        "website": "https://tekonika.co/ai-consulting",
+        "industry": "AI Consulting",
+        "summary": "Tekonika is an AI consulting company that develops AI-driven services enabling your company to take full advantage of the gathered data.",
+        "location": ""
+    },
+    "services": [
+        "AI Strategy Consulting",
+        "AI Technologies Consulting",
+        "AI Benefits"
+    ],
+    "technologies": [
+        "ML Development Tools",
+        "Database",
+        "Frameworks",
+        "AI & Machine Learning",
+        "Hadoop"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "matched_skills": [],
+        "missing_skills": [
+            "Hadoop"
+        ]
+    },
+    "recommended_services": [
+        "AI Development",
+        "Machine Learning Solutions",
+        "LLM Applications",
+        "AI Automation",
+        "Computer Vision",
+        "NLP Applications"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    }
+}

@@ -1,0 +1,35 @@
+Company: Ksolves
+Website: https://www.ksolves.com/ai-ml-services
+Industry: Software Development
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Apache NiFi
+- Cassandra
+- Kafka
+- Spark
+- Hadoop
+- Druid
+- Thanos
+- MongoDB
+- Rook Ceph
+- Prometheus
+- Grafana
+
+Recommended Services
+-------------------------
+- AI Development
+- Machine Learning Solutions
+- LLM Applications
+- AI Automation
+- Computer Vision
+
+Reasoning
+-------------------------
+The candidate's skills and projects are not aligned with the company's technology stack. The missing technologies include Apache NiFi, Cassandra, Kafka, Spark, Hadoop, Druid, Thanos, MongoDB, Rook Ceph, Prometheus, Grafana, which are crucial for Ksolves' services such as Big Data, Snowflake, Databricks, Salesforce Services, Odoo, DevOps, and Cyber Security. The candidate's skills in Python, Machine Learning, Deep Learning, Artificial Intelligence, TensorFlow, PyTorch, Computer Vision, NLP, LLMs, LangChain are not aligned with the company's AI opportunities like Data Flow Manager, Dashboard Ninja with AI, Mind AI Ninja, Salesforce CTI Integration, MicroStrategy. The candidate lacks skills in Apache Kafka and Prometheus which are essential for Ksolves' services.

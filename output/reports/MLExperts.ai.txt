@@ -1,0 +1,23 @@
+Company: MLExperts.ai
+Website: https://mlexperts.ai/
+Industry: AI ML Consulting
+
+Match Score: 0%
+Priority: 
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- CI/CD
+
+Recommended Services
+-------------------------
+- AI Engineer
+- Machine Learning
+
+Reasoning
+-------------------------
+The candidate's skills and experience align closely with the company's needs for AI, ML, and Computer Vision. However, they lack proficiency in Docker and CI/CD tools which are essential for deployment and management of AI models across different cloud infrastructures.

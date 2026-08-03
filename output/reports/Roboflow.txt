@@ -1,0 +1,26 @@
+Company: Roboflow
+Website: https://roboflow.com/
+Industry: Computer vision
+
+Match Score: 0%
+Priority: High
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- AWS
+- Azure
+
+Recommended Services
+-------------------------
+- AI Development
+- Machine Learning Solutions
+- LLM Applications
+- AI Automation
+- Computer Vision
+
+Reasoning
+-------------------------
+The candidate's skills and projects are focused on Python, Machine Learning, Deep Learning, Artificial Intelligence, TensorFlow, PyTorch, Computer Vision, NLP, LLMs, LangChain, FastAPI, React Native, Next.js, TypeScript. However, the company requires technologies like AWS, Azure which are not present in the candidate's profile. The match_score is 0 as there is no overlap between the candidate and the required technologies.

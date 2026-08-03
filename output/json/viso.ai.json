@@ -1,0 +1,90 @@
+{
+    "company": {
+        "name": "viso.ai",
+        "website": "https://viso.ai/computer-vision/most-popular-computer-vision-companies-and-startups/",
+        "industry": "Computer Vision Software Companies",
+        "summary": "viso.ai is a computer vision company from Switzerland that provides the world's only end-to-end computer vision platform, Viso Suite. Using this solution, teams can build, deploy, and scale all their computer vision applications on one unified infrastructure.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Enterprise Computer Vision Infrastructure"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "AI Frameworks",
+        "LLMs"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 90,
+        "confidence": "High",
+        "matched_skills": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "Strong Python skills",
+            "Experience in React Native and PyTorch"
+        ],
+        "improvement_areas": [],
+        "reasoning": "The candidate has strong Python, React Native, PyTorch, Computer Vision, and NLP skills which align well with the company's technology stack. The missing skills are minimal as they focus on AI technologies that are already part of the company's offerings."
+    },
+    "recommended_services": [
+        "AI Chatbot Development",
+        "Computer Vision Solutions"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": "",
+        "phones": "",
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima khan",
+        "desired_role": "Frontend Developer",
+        "skills": [
+            "python",
+            "react native",
+            "machine learning",
+            "pytorch",
+            "computer vision",
+            "nlp",
+            "mobile application development",
+            "website development"
+        ],
+        "services": [
+            "Python",
+            "React Native",
+            "PyTorch",
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Mobile Application Development"
+        ]
+    }
+}
