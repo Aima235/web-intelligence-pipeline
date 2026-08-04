@@ -1,0 +1,25 @@
+Company: Aniktantra
+Website: https://www.aniktantra.in/aniktantra-3-artificial-intelligence-machine-learning/
+Industry: Artificial Intelligence (AI) Consulting
+
+Match Score: 0%
+Priority: Medium
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- R Software
+- C and C++
+
+Recommended Services
+-------------------------
+- Predictive Insights & Forecasting
+- Advanced Data Intelligence
+- Personalized User Experiences
+- Deep Learning & NLP Solutions
+
+Reasoning
+-------------------------
+The candidate has strong Python skills with a focus on AI and ML. However, they lack experience in R Software and C++, which are important for the company's industry. Additionally, while they have relevant technologies like Python, Machine Learning, Deep Learning, Artificial Intelligence, Generative AI, LLMs, NLP, and Computer Vision, these skills do not match the specific requirements of the company's services.

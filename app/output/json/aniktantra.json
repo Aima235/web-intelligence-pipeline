@@ -1,0 +1,98 @@
+{
+    "company": {
+        "name": "Aniktantra",
+        "website": "https://www.aniktantra.in/aniktantra-3-artificial-intelligence-machine-learning/",
+        "industry": "Artificial Intelligence (AI) Consulting",
+        "summary": "Aniktantra delivers AI and ML services that automate decision-making, improve efficiency, and enable smarter business outcomes across industries.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Predictive Insights & Forecasting",
+        "Advanced Data Intelligence",
+        "Personalized User Experiences",
+        "Deep Learning & NLP Solutions"
+    ],
+    "technologies": [
+        "Python",
+        "R Software",
+        "C and C++",
+        "JavaScript",
+        "Deep Learning",
+        "Intelligent Automation",
+        "Natural Language Processing (NLP)"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [
+        "No predictive analytics",
+        "Manual reporting",
+        "Lack of automation"
+    ],
+    "ai_opportunities": [
+        "Predictive Analytics Platform",
+        "Machine Learning Forecasting",
+        "Automated Reporting"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "R Software",
+            "C and C++"
+        ],
+        "strengths": [
+            "Strong Python skills with a focus on AI and ML",
+            "Experience in multiple relevant technologies (Python, Machine Learning, Deep Learning)"
+        ],
+        "improvement_areas": [
+            "Expand knowledge of R Software and C++",
+            "Develop more projects related to Computer Vision"
+        ],
+        "reasoning": "The candidate has strong Python skills with a focus on AI and ML. However, they lack experience in R Software and C++, which are important for the company's industry. Additionally, while they have relevant technologies like Python, Machine Learning, Deep Learning, Artificial Intelligence, Generative AI, LLMs, NLP, and Computer Vision, these skills do not match the specific requirements of the company's services."
+    },
+    "recommended_services": [
+        "Predictive Insights & Forecasting",
+        "Advanced Data Intelligence",
+        "Personalized User Experiences",
+        "Deep Learning & NLP Solutions"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": "",
+        "phones": "",
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima",
+        "desired_role": "AI eNGINEER",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Generative AI",
+            "LLMs",
+            "Agentic AI",
+            "NLP",
+            "Computer Vision"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence"
+        ]
+    }
+}
