@@ -1,0 +1,104 @@
+{
+    "company": {
+        "name": "ArStudioz",
+        "website": "https://arstudioz.com/artificial-intelligence",
+        "industry": "AI Agent Development",
+        "summary": "We build AI agents that take real action, in production. We design, build, and ship production AI agents and agentic automation for startups, fintech, and crypto teams.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Agentic Workflow Automation",
+        "AI Agents & Copilots",
+        "RAG & Knowledge Systems",
+        "MCP & Integrations",
+        "Voice AI Agents",
+        "Web3"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "Voice AI Agents",
+        "Web3"
+    ],
+    "candidate_match": {
+        "score": 90,
+        "confidence": "High",
+        "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Generative AI",
+            "LLMs",
+            "NLP",
+            "Computer Vision"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "Strong proficiency in Python and related technologies",
+            "Demonstrated experience in multiple AI-related fields"
+        ],
+        "improvement_areas": [],
+        "reasoning": "The candidate has a strong background in AI, including skills such as Machine Learning, Deep Learning, Artificial Intelligence, Generative AI, LLMs, NLP, and Computer Vision. They have also demonstrated experience in Python and related technologies. This makes them highly qualified for the role of an AI Engineer at ArStudioz."
+    },
+    "recommended_services": [
+        "Agentic Workflow Automation",
+        "AI Agents & Copilots",
+        "RAG & Knowledge Systems",
+        "MCP & Integrations",
+        "Voice AI Agents",
+        "Web3"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [
+            "hello@arstudioz.com"
+        ],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima",
+        "desired_role": "AI eNGINEER",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Generative AI",
+            "LLMs",
+            "Agentic AI",
+            "NLP",
+            "Computer Vision"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence"
+        ]
+    }
+}

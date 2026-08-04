@@ -92,21 +92,15 @@ class CompanyRanker:
             company.get("snippet", "")
         ).lower()
 
-        # AI / Technology keywords
         for keyword in self.ai_keywords:
-
             if keyword in text:
                 score += 6
 
-        # Candidate skills
         for skill in profile.get("skills", []):
-
             if skill.lower() in text:
                 score += 8
 
-        # Candidate services
         for service in profile.get("services", []):
-
             if service.lower() in text:
                 score += 10
 
@@ -137,11 +131,8 @@ class CompanyRanker:
             response = self.llm.generate(prompt)
 
             response = response.strip()
-
             response = response.replace("```json", "")
-
             response = response.replace("```", "")
-
             response = response.strip()
 
             result = json.loads(response)
@@ -150,20 +141,30 @@ class CompanyRanker:
 
             final_score = round((rule_score + llm_score) / 2)
 
-            result["score"] = final_score
+            print("\n" + "=" * 70)
+            print(company["url"])
+            print(f"Rule Score : {rule_score}")
+            print(f"LLM Score  : {llm_score}")
+            print(f"Final Score: {final_score}")
+            print("=" * 70)
 
+            result["score"] = final_score
             result["relevant"] = final_score >= 60
+
+            print(result)
 
             return result
 
-        except Exception:
+        except Exception as e:
+
+            print("\n" + "=" * 70)
+            print("Ranking Error")
+            print(company["url"])
+            print(e)
+            print("=" * 70)
 
             return {
-
                 "relevant": rule_score >= 60,
-
                 "score": rule_score,
-
                 "reason": "Keyword-based ranking"
-
             }

@@ -1,0 +1,34 @@
+Company: ArtLumen
+Website: https://www.artlumen.co.in/machine_learning_solution.php
+Industry: AI Consulting
+
+Match Score: 70%
+Priority: High
+
+Matched Skills
+-------------------------
+- Python
+- Machine Learning
+
+Missing Skills
+-------------------------
+- Deep Learning
+- Artificial Intelligence
+- Generative AI
+- LLMs
+- Agentic AI
+- NLP
+- Computer Vision
+
+Recommended Services
+-------------------------
+- AI Code Modernization Assistant
+- Predictive Analytics Platform
+- Machine Learning Forecasting
+- Recommendation Systems
+- Semantic Search
+- Customer Support Automation
+
+Reasoning
+-------------------------
+The candidate has strong Python and Machine Learning skills but lacks the required expertise in other important technologies. The company is looking for solutions that utilize machine learning, artificial intelligence, and internet of things technologies to provide enhanced insights with real-time situational intelligence and improved business outcomes.

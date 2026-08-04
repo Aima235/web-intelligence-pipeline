@@ -1,0 +1,36 @@
+Company: Width.ai
+Website: https://www.width.ai/
+Industry: AI & Machine Learning Consulting Services
+
+Match Score: 90%
+Priority: Medium
+
+Matched Skills
+-------------------------
+- Python
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Generative AI
+- LLMs
+- NLP
+- Computer Vision
+
+Missing Skills
+-------------------------
+
+Recommended Services
+-------------------------
+- AI Chatbot
+- Recommendation Systems
+- Predictive Analytics
+- NLP Services
+- Object Detection
+- Prompt Engineering
+- Customer Support Automation
+- Document Processing Automation
+- Email Automation
+
+Reasoning
+-------------------------
+The candidate has a strong background in multiple critical technologies required by the company. They have experience with Python, Machine Learning, Deep Learning, Artificial Intelligence, Generative AI, LLMs, NLP, and Computer Vision, which align perfectly with the company's technology stack. The candidate also possesses skills in projects related to these areas, making them a strong fit for the role of AI Engineer at Width.ai.

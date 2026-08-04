@@ -1,0 +1,117 @@
+{
+    "company": {
+        "name": "Width.ai",
+        "website": "https://www.width.ai/",
+        "industry": "AI & Machine Learning Consulting Services",
+        "summary": "Width.ai is an AI & Machine Learning consulting company focused on generative ai implementations. We help companies build ai projects through development and strategy.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Computer Vision",
+        "Ai Chatbots",
+        "Object Detection",
+        "Prompt Engineering",
+        "NLP Services"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "No powerpoints - we just ship.",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "No AI-driven insights",
+        "Limited automation",
+        "Poor personalization",
+        "No chatbot"
+    ],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Recommendation Systems",
+        "Predictive Analytics",
+        "NLP Services"
+    ],
+    "candidate_match": {
+        "score": 90,
+        "confidence": "High",
+        "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Generative AI",
+            "LLMs",
+            "NLP",
+            "Computer Vision"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "Strong proficiency in Python, Machine Learning, Deep Learning, and Artificial Intelligence.",
+            "Expertise in Generative AI, LLM development, NLP implementation, and Computer Vision."
+        ],
+        "improvement_areas": [],
+        "reasoning": "The candidate has a strong background in multiple critical technologies required by the company. They have experience with Python, Machine Learning, Deep Learning, Artificial Intelligence, Generative AI, LLMs, NLP, and Computer Vision, which align perfectly with the company's technology stack. The candidate also possesses skills in projects related to these areas, making them a strong fit for the role of AI Engineer at Width.ai."
+    },
+    "recommended_services": [
+        "AI Chatbot",
+        "Recommendation Systems",
+        "Predictive Analytics",
+        "NLP Services",
+        "Object Detection",
+        "Prompt Engineering",
+        "Customer Support Automation",
+        "Document Processing Automation",
+        "Email Automation"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima",
+        "desired_role": "AI eNGINEER",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Generative AI",
+            "LLMs",
+            "Agentic AI",
+            "NLP",
+            "Computer Vision"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence"
+        ]
+    }
+}

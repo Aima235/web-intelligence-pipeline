@@ -1,0 +1,106 @@
+{
+    "company": {
+        "name": "ArtLumen",
+        "website": "https://www.artlumen.co.in/machine_learning_solution.php",
+        "industry": "AI Consulting",
+        "summary": "ArtLumen Pvt Ltd provides solutions that utilize machine learning, artificial intelligence and internet of things technologies to provide enhanced insights with real-time situational intelligence and improved business outcomes.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Machine Learning Solutions"
+    ],
+    "technologies": [
+        "Programming Languages",
+        "Frameworks",
+        "Libraries",
+        "Databases",
+        "Cloud Platforms",
+        "DevOps Tools",
+        "AI Frameworks",
+        "LLMs"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "AI Code Modernization Assistant",
+        "Predictive Analytics Platform",
+        "Machine Learning Forecasting",
+        "Recommendation Systems",
+        "Semantic Search",
+        "Customer Support Automation"
+    ],
+    "candidate_match": {
+        "score": 70,
+        "confidence": "Low",
+        "matched_skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "missing_skills": [
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Generative AI",
+            "LLMs",
+            "Agentic AI",
+            "NLP",
+            "Computer Vision"
+        ],
+        "strengths": [
+            "Strong Python and Machine Learning skills"
+        ],
+        "improvement_areas": [
+            "Expand expertise in Deep Learning, Generative AI, LLMs, Agentic AI, NLP, Computer Vision"
+        ],
+        "reasoning": "The candidate has strong Python and Machine Learning skills but lacks the required expertise in other important technologies. The company is looking for solutions that utilize machine learning, artificial intelligence, and internet of things technologies to provide enhanced insights with real-time situational intelligence and improved business outcomes."
+    },
+    "recommended_services": [
+        "AI Code Modernization Assistant",
+        "Predictive Analytics Platform",
+        "Machine Learning Forecasting",
+        "Recommendation Systems",
+        "Semantic Search",
+        "Customer Support Automation"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [
+            "info@artlumen.in",
+            "+91 9061 645 458"
+        ],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "aima",
+        "desired_role": "AI eNGINEER",
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Generative AI",
+            "LLMs",
+            "Agentic AI",
+            "NLP",
+            "Computer Vision"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Artificial Intelligence"
+        ]
+    }
+}

@@ -1,7 +1,9 @@
-from ai.llm_client import LLMClient
+from app.ai.llm_client import LLMClient
 
-llm = LLMClient()
 
-response = llm.generate("Say hello in one sentence.")
+def test_llm_client_creation():
+    """Test that the LLM client initializes successfully."""
 
-print(response)
+    llm = LLMClient()
+
+    assert llm is not None

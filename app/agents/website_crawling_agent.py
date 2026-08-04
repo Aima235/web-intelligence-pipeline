@@ -76,10 +76,10 @@ class WebsiteCrawlingAgent:
 
         print("\nCandidate Information")
         print("-" * 50)
-        print(f"Name           : {profile.get('name')}")
-        print(f"Desired Role   : {profile.get('desired_role')}")
-        print(f"Location       : {profile.get('location')}")
-        print(f"Skills         : {', '.join(profile.get('skills', []))}")
+        print(f"Name         : {profile.get('name')}")
+        print(f"Desired Role : {profile.get('desired_role')}")
+        print(f"Location     : {profile.get('location')}")
+        print(f"Skills       : {', '.join(profile.get('skills', []))}")
 
         print("\nGenerating Search Queries...")
 
@@ -112,6 +112,9 @@ class WebsiteCrawlingAgent:
                 company_site,
                 profile
             )
+            print("=" * 70)
+            print(company_site["url"])
+            print(result)
 
             if result.get("relevant", False):
                 company_site["score"] = result.get("score", 0)
@@ -170,11 +173,17 @@ class WebsiteCrawlingAgent:
                 if parsed is None:
                     print("✕ Parsing failed.")
                     continue
+                content_length = len(parsed.get("markdown", ""))
 
+                print(f"Content Length: {content_length}")
+
+                if content_length < 1000:
+                    print("✕ Too little content. Skipping.")
+                    continue
                 if len(parsed.get("markdown", "")) < 1000:
                     print("✕ Too little content. Skipping.")
                     continue
-
+                
                 company = self.extractor.extract(parsed)
 
                 if company is None:
@@ -285,11 +294,11 @@ class WebsiteCrawlingAgent:
                     )
 
                     proposal_path = self.pdf_generator.generate(
-                    proposal=proposal,
-                    company=company,
-                    profile=profile,
-                    filename=filename
-)
+                        proposal=proposal,
+                        company=company,
+                        profile=profile,
+                        filename=filename
+                    )
 
                     print(f"✓ Proposal generated and saved: {proposal_path}")
                     proposal_generated += 1

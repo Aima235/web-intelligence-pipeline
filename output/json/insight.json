@@ -2,60 +2,54 @@
     "company": {
         "name": "Insight",
         "website": "https://www.insight.com/en_US/what-we-do/expertise/data-and-ai/computer-vision.html",
-        "industry": "AI Solutions",
-        "summary": "Insight accelerates transformation by unlocking the power of people and technology. We drive speed, scale, resilience, and innovation to help clients achieve their ambitious goals.",
+        "industry": "AI Consulting",
+        "summary": "Insight accelerates transformation by unlocking the power of people and technology. We serve the public and private sectors, providing deep industry experience and technical skills to guide your organization's IT transformation goals. Our AI consulting services include Insight Prism, helping identify high-value use cases and define a clear path forward.",
         "location": "",
         "company_size": "",
         "founded": ""
     },
     "services": [
-        "Computer Vision"
+        "Build your AI roadmap"
     ],
     "technologies": [
-        "Cloud Platforms",
-        "Databases",
-        "DevOps Tools",
-        "AI Frameworks",
-        "LLMs"
+        "No. 427 Fortune 500"
     ],
     "target_clients": [],
     "business_goals": [],
-    "pain_points": [],
-    "business_gaps": [
-        "No Computer Vision Solutions",
-        "Limited AI Adoption"
+    "pain_points": [
+        "Wherever you are in your AI journey, Insight helps you move from hype to how, with focus, confidence, and outcomes that last."
     ],
-    "ai_opportunities": [
-        "Computer Vision Platform",
-        "AI for Computer Vision"
-    ],
+    "business_gaps": [],
+    "ai_opportunities": [],
     "candidate_match": {
-        "score": 0,
+        "score": 70,
         "confidence": "Low",
-        "matched_skills": [],
-        "missing_skills": [
+        "matched_skills": [
+            "Python",
+            "AI",
+            "Machine Learning",
             "Computer Vision"
         ],
+        "missing_skills": [
+            "pandas",
+            "matplotlib",
+            "numpy",
+            "object detection",
+            "image detection"
+        ],
         "strengths": [
-            "Python",
-            "React Native",
-            "PyTorch",
-            "Computer Vision",
-            "Natural Language Processing (NLP)",
-            "Mobile Application Development"
+            "Strong Python and AI skills"
         ],
         "improvement_areas": [
-            "Add Computer Vision skills to the profile"
+            "Expand skill set with additional technologies like pandas, matplotlib, numpy, object detection, image detection"
         ],
-        "reasoning": "The candidate has strong Python, React Native, PyTorch, and computer vision skills. However, they lack Computer Vision skills which are a key requirement for Insight's AI solutions. The company is looking for solutions in various industries including healthcare, education, finance, and technology. The candidate should focus on acquiring Computer Vision skills to better match the company's needs."
+        "reasoning": "The candidate has strong Python and AI skills but lacks the necessary tools for computer vision projects. This makes it challenging to recommend specific services as they may not be directly applicable without these additional skills."
     },
-    "recommended_services": [
-        "Computer Vision Solutions"
-    ],
+    "recommended_services": [],
     "proposal": {},
     "cms": {},
     "lead_generation": {
-        "priority": "High",
+        "priority": "",
         "lead_score": 0,
         "project_type": "",
         "contact_page": ""
@@ -67,25 +61,24 @@
         "social_links": []
     },
     "candidate_profile": {
-        "name": "aima khan",
-        "desired_role": "Frontend Developer",
+        "name": "Aima Khan",
+        "desired_role": "CV Engineer",
         "skills": [
             "python",
-            "react native",
+            "ai",
             "machine learning",
-            "pytorch",
             "computer vision",
-            "nlp",
-            "mobile application development",
-            "website development"
+            "pandas",
+            "matplotlib",
+            "numpy",
+            "object detection",
+            "image detection"
         ],
         "services": [
             "Python",
-            "React Native",
-            "PyTorch",
-            "Computer Vision",
-            "Natural Language Processing (NLP)",
-            "Mobile Application Development"
+            "AI",
+            "Machine Learning",
+            "Computer Vision"
         ]
     }
 }
