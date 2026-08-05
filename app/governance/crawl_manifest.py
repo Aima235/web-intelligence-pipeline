@@ -54,8 +54,8 @@ class CrawlManifest(BaseModel):
     status: CrawlStatus
 
     timestamp: datetime = Field(
-    default_factory=lambda: datetime.now(UTC)
-)
+        default_factory=lambda: datetime.now(UTC)
+    )
 
     content_hash: str = Field(
         ...,
@@ -68,3 +68,33 @@ class CrawlManifest(BaseModel):
     )
 
     approval_state: ApprovalState = ApprovalState.PENDING
+
+    status_code: Optional[int] = Field(
+        default=None,
+        description="HTTP status code"
+    )
+
+    content_type: Optional[str] = Field(
+        default=None,
+        description="Response content type"
+    )
+
+    canonical_url: Optional[HttpUrl] = Field(
+        default=None,
+        description="Canonical URL after normalization"
+    )
+
+    response_time: Optional[float] = Field(
+        default=None,
+        description="Response time in seconds"
+    )
+
+    redirect_count: int = Field(
+        default=0,
+        description="Number of redirects followed"
+    )
+
+    used_dynamic: bool = Field(
+        default=False,
+        description="Whether Playwright was used"
+    )
