@@ -1,0 +1,26 @@
+Company: Width.ai
+Website: https://www.width.ai/
+Industry: AI & Machine Learning Consulting
+
+Match Score: 90%
+Priority: Medium
+
+Matched Skills
+-------------------------
+- Python
+- Machine Learning
+- AI Algorithms
+- Deep Learning
+- Computer Vision
+
+Missing Skills
+-------------------------
+
+Recommended Services
+-------------------------
+- Recommendation Systems
+- Anomaly Detection
+
+Reasoning
+-------------------------
+The candidate has strong foundational skills in Python, machine learning, and AI algorithms. They also have experience with deep learning, computer vision, and project management, which align well with the company's focus on generative AI implementations. The missing skills are limited to a few specialized technologies not present in the candidate profile.

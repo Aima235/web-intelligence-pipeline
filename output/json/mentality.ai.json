@@ -34,28 +34,27 @@
         "Predictive Analytics"
     ],
     "candidate_match": {
-        "score": 0,
+        "score": 80,
         "confidence": "Low",
-        "matched_skills": [],
+        "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "AI Algorithms",
+            "Deep Learning",
+            "Computer Vision"
+        ],
         "missing_skills": [
-            "Java",
-            "Docker",
-            "Kubernetes"
+            "project management",
+            "tensorflow",
+            "pytorch"
         ],
         "strengths": [
-            "Python",
-            "React Native",
-            "PyTorch",
-            "Computer Vision",
-            "Natural Language Processing (NLP)",
-            "Mobile Application Development"
+            "Strong in Python and related technologies"
         ],
         "improvement_areas": [
-            "Java",
-            "Docker",
-            "Kubernetes"
+            "Expand skills in project management, TensorFlow, PyTorch"
         ],
-        "reasoning": "The candidate's skills and experience are mostly aligned with the company's technology stack, but there are significant gaps in Java, Docker, and Kubernetes. The recommended services focus on areas where the candidate can bring value without requiring additional training or resources."
+        "reasoning": "The candidate has strong proficiency in Python and machine learning-related technologies. However, they lack experience in project management, which is crucial for a full AI engineer role at Mentality.ai. Additionally, the missing skills are important for various services like Medical Imaging, Autonomous Vehicles, and Aerial Photography."
     },
     "recommended_services": [
         "Custom Deep Learning Solutions",
@@ -74,31 +73,30 @@
     "products": [],
     "contact": {
         "emails": [
-            "contact@mentality.ai"
+            "your.email@example.com"
         ],
         "phones": [],
         "social_links": []
     },
     "candidate_profile": {
-        "name": "aima khan",
-        "desired_role": "Frontend Developer",
+        "name": "Aima Khan",
+        "desired_role": "AI Engineer",
         "skills": [
             "python",
-            "react native",
             "machine learning",
-            "pytorch",
+            "AI algorithms",
+            "deep learning",
             "computer vision",
-            "nlp",
-            "mobile application development",
-            "website development"
+            "project management",
+            "tensorflow",
+            "pytorch"
         ],
         "services": [
             "Python",
-            "React Native",
-            "PyTorch",
-            "Computer Vision",
-            "Natural Language Processing (NLP)",
-            "Mobile Application Development"
+            "Machine Learning",
+            "AI Algorithms",
+            "Deep Learning",
+            "Computer Vision"
         ]
     }
 }

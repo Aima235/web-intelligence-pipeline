@@ -1,0 +1,92 @@
+{
+    "company": {
+        "name": "Vedia Cloud Analytics",
+        "website": "https://vedia.ca/machinelearning-solutions/",
+        "industry": "AI Solutions",
+        "summary": "Unlock the potential of machine learning with our tailored solutions, including predictive modeling, classification, clustering, and anomaly detection. Vedia’s machine learning services encompass the entire lifecycle of designing, building, and deploying customized solutions tailored to your business needs.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Predictive Modeling",
+        "Classification",
+        "Clustering",
+        "Anomaly Detection",
+        "Regression Analysis"
+    ],
+    "technologies": [],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "No AI-driven insights",
+        "Poor personalization"
+    ],
+    "business_gaps": [
+        "No AI-driven insights",
+        "Poor personalization"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ],
+        "strengths": [
+            "Python",
+            "Machine Learning",
+            "Full Stack Web Development",
+            "TensorFlow",
+            "PyTorch"
+        ],
+        "improvement_areas": [
+            "Docker",
+            "AWS"
+        ],
+        "reasoning": "The candidate has strong skills in Python, machine learning, full stack web development, TensorFlow, PyTorch, and project management. However, they lack knowledge of Docker and AWS technologies which are crucial for Vedia Cloud Analytics' services. The recommended services align with the company's AI solutions but require additional training on relevant tools."
+    },
+    "recommended_services": [
+        "Predictive Modeling",
+        "Classification",
+        "Clustering",
+        "Anomaly Detection",
+        "Regression Analysis"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima Khan",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "full stack web development",
+            "tensorflow",
+            "pytorch",
+            "computer vision",
+            "project management"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Full Stack Web Development",
+            "TensorFlow",
+            "PyTorch"
+        ]
+    }
+}

@@ -301,3 +301,31 @@
 [2026-08-04 15:37:06] Crawling https://alwaysai.co/
 [2026-08-04 15:37:06] ========== RUN FINISHED ==========
 [2026-08-04 16:14:43] ========== NEW RUN STARTED ==========
+[2026-08-06 11:35:46] ========== NEW RUN STARTED ==========
+[2026-08-06 12:10:03] Crawling http://mentality.ai/
+[2026-08-06 12:13:24] Extraction completed: Mentality.ai
+[2026-08-06 12:15:40] Gap analysis completed: Mentality.ai
+[2026-08-06 12:18:22] Match Score: Mentality.ai = 80%
+[2026-08-06 12:24:01] Proposal saved for Mentality.ai
+[2026-08-06 12:24:01] JSON exported for Mentality.ai
+[2026-08-06 12:24:01] Crawling https://www.insight.com/en_US/what-we-do/expertise/data-and-ai/computer-vision.html
+[2026-08-06 12:24:15] Crawling https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/computer-vision.html
+[2026-08-06 12:24:37] Crawling https://www.width.ai/
+[2026-08-06 12:27:56] Extraction completed: Width.ai
+[2026-08-06 12:29:34] Gap analysis completed: Width.ai
+[2026-08-06 12:31:33] Match Score: Width.ai = 90%
+[2026-08-06 12:36:03] Proposal saved for Width.ai
+[2026-08-06 12:36:03] JSON exported for Width.ai
+[2026-08-06 12:36:03] Crawling https://viso.ai/computer-vision/most-popular-computer-vision-companies-and-startups/
+[2026-08-06 16:30:31] ========== NEW RUN STARTED ==========
+[2026-08-06 17:05:14] Crawling https://www.saviantconsulting.com/machine-learning-consulting.aspx
+[2026-08-06 17:07:10] Crawling https://vedia.ca/machinelearning-solutions/
+[2026-08-06 17:11:56] Extraction completed: Vedia Cloud Analytics
+[2026-08-06 17:14:24] Gap analysis completed: Vedia Cloud Analytics
+[2026-08-06 17:16:46] Match Score: Vedia Cloud Analytics = 0%
+[2026-08-06 17:16:46] JSON exported for Vedia Cloud Analytics
+[2026-08-06 17:16:46] Crawling https://www.harnham.com/ai-machine-learning-recruitment/
+[2026-08-06 17:16:56] Crawling https://resolvetech.com/machine-learning-consulting-enterprises-operational-results/
+[2026-08-06 17:17:03] Crawling https://javascript.plainenglish.io/how-machine-learning-consulting-transforms-modern-enterprises-72a23798bee8
+[2026-08-06 17:17:09] Best match: Vedia Cloud Analytics with a score of 0%
+[2026-08-06 17:17:09] ========== RUN FINISHED ==========

@@ -2,6 +2,12 @@ import json
 import re
 import time
 
+from processing.content_processor import (
+    ContentCleaner,
+    DuplicateDetector,
+    EvidenceGenerator,
+)
+
 from utils.logger import Logger
 from discovery.search_queries import SearchQueryGenerator
 from discovery.search_agent import SearchAgent
@@ -31,7 +37,7 @@ class WebsiteCrawlingAgent:
         self.search_agent = SearchAgent()
         self.company_finder = CompanyFinder()
         self.report_generator = ReportGenerator()
-
+         
         # Website
         self.scraper = WebsiteScraper()
         self.parser = WebsiteParser()
@@ -47,6 +53,9 @@ class WebsiteCrawlingAgent:
         # Output
         self.pdf_generator = PDFGenerator()
         self.exporter = Exporter()
+        self.evidence_generator = EvidenceGenerator()
+        self.content_cleaner = ContentCleaner()
+        self.duplicate_detector = DuplicateDetector()
 
     def clean_filename(self, name):
         if not name:
@@ -167,25 +176,28 @@ class WebsiteCrawlingAgent:
                     print("✕ Crawling failed.")
                     continue
 
-                parsed = self.parser.parse(crawl_result)
+                parsed_page = self.parser.parse(crawl_result)
                 crawl_success += 1
-
-                if parsed is None:
+             
+                if parsed_page is None:
                     print("✕ Parsing failed.")
                     continue
-                content_length = len(parsed.get("markdown", ""))
 
+                processed_page = self.content_cleaner.clean(parsed_page)
+                processed_page = self.duplicate_detector.check(processed_page)
+                processed_page = self.evidence_generator.create(processed_page)
+
+                # Test Step: Print processed page evidence
+                print(processed_page.get("evidence", ""))
+
+                content_length = len(processed_page.get("markdown", ""))
                 print(f"Content Length: {content_length}")
 
                 if content_length < 1000:
                     print("✕ Too little content. Skipping.")
                     continue
-                if len(parsed.get("markdown", "")) < 1000:
-                    print("✕ Too little content. Skipping.")
-                    continue
                 
-                company = self.extractor.extract(parsed)
-
+                company = self.extractor.extract(processed_page)
                 if company is None:
                     print("✕ Extraction failed.")
                     continue

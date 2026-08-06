@@ -1,0 +1,26 @@
+Company: Vedia Cloud Analytics
+Website: https://vedia.ca/machinelearning-solutions/
+Industry: AI Solutions
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- Predictive Modeling
+- Classification
+- Clustering
+- Anomaly Detection
+- Regression Analysis
+
+Reasoning
+-------------------------
+The candidate has strong skills in Python, machine learning, full stack web development, TensorFlow, PyTorch, and project management. However, they lack knowledge of Docker and AWS technologies which are crucial for Vedia Cloud Analytics' services. The recommended services align with the company's AI solutions but require additional training on relevant tools.

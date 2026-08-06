@@ -2,17 +2,22 @@ Company: Mentality.ai
 Website: http://mentality.ai/
 Industry: AI Consulting
 
-Match Score: 0%
+Match Score: 80%
 Priority: 
 
 Matched Skills
 -------------------------
+- Python
+- Machine Learning
+- AI Algorithms
+- Deep Learning
+- Computer Vision
 
 Missing Skills
 -------------------------
-- Java
-- Docker
-- Kubernetes
+- project management
+- tensorflow
+- pytorch
 
 Recommended Services
 -------------------------
@@ -23,4 +28,4 @@ Recommended Services
 
 Reasoning
 -------------------------
-The candidate's skills and experience are mostly aligned with the company's technology stack, but there are significant gaps in Java, Docker, and Kubernetes. The recommended services focus on areas where the candidate can bring value without requiring additional training or resources.
+The candidate has strong proficiency in Python and machine learning-related technologies. However, they lack experience in project management, which is crucial for a full AI engineer role at Mentality.ai. Additionally, the missing skills are important for various services like Medical Imaging, Autonomous Vehicles, and Aerial Photography.

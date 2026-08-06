@@ -10,9 +10,9 @@ from urllib.parse import (
 
 from playwright.async_api import async_playwright
 
-from app.governance.policy_validator import PolicyValidator
-from app.governance.robots_handler import RobotsHandler
-from app.governance.crawl_manifest import (
+from governance.policy_validator import PolicyValidator
+from governance.robots_handler import RobotsHandler
+from governance.crawl_manifest import (
     CrawlManifest,
     CrawlStatus,
 )

@@ -1,0 +1,105 @@
+{
+    "company": {
+        "name": "Width.ai",
+        "website": "https://www.width.ai/",
+        "industry": "AI & Machine Learning Consulting",
+        "summary": "Width.ai is an AI & Machine Learning consulting company focused on generative ai implementations. We help companies build ai projects through development and strategy.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Computer Vision",
+        "Ai Chatbots",
+        "Object Detection",
+        "Prompt Engineering",
+        "NLP Services"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "No powerpoints - we just ship.",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "No AI-driven insights",
+        "Limited automation",
+        "No chatbot"
+    ],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Recommendation Systems",
+        "Predictive Analytics"
+    ],
+    "candidate_match": {
+        "score": 90,
+        "confidence": "High",
+        "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "AI Algorithms",
+            "Deep Learning",
+            "Computer Vision"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "Strong Python and Machine Learning skills",
+            "Broad AI skill set including deep learning, computer vision, and project management"
+        ],
+        "improvement_areas": [],
+        "reasoning": "The candidate has strong foundational skills in Python, machine learning, and AI algorithms. They also have experience with deep learning, computer vision, and project management, which align well with the company's focus on generative AI implementations. The missing skills are limited to a few specialized technologies not present in the candidate profile."
+    },
+    "recommended_services": [
+        "Recommendation Systems",
+        "Anomaly Detection"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima Khan",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "AI algorithms",
+            "deep learning",
+            "computer vision",
+            "project management",
+            "tensorflow",
+            "pytorch"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "AI Algorithms",
+            "Deep Learning",
+            "Computer Vision"
+        ]
+    }
+}

@@ -1,1 +1,4 @@
 Qwen2.5-1.5B-Instruct-Q4_K_M.gguf.incomplete
+__pycache__/
+*.pyc
+.pytest_cache/
