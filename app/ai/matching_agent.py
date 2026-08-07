@@ -8,6 +8,25 @@ from prompts.matching_prompt import MATCHING_PROMPT
 
 class MatchingAgent:
 
+    TECH_ALIASES = {
+        "ml": "machine learning",
+        "machine learning": "machine learning",
+        "ai": "ai",
+        "artificial intelligence": "ai",
+        "gen ai": "generative ai",
+        "generative ai": "generative ai",
+        "llm": "large language models",
+        "large language models": "large language models",
+        "nlp": "natural language processing",
+        "computer vision": "computer vision",
+        "cv": "computer vision",
+        "tensorflow": "tensorflow",
+        "tf": "tensorflow",
+        "pytorch": "pytorch",
+        "docker": "docker",
+        "aws": "aws",
+    }
+
     def __init__(self):
         self.llm = LLMClient()
 
@@ -45,6 +64,10 @@ class MatchingAgent:
 
         return cleaned
 
+    def _canonical(self, value):
+        value = value.lower().strip()
+        return self.TECH_ALIASES.get(value, value)
+
     def _extract_json(self, text):
         if not text:
             return {}
@@ -77,6 +100,9 @@ class MatchingAgent:
         )
 
         response = self.llm.generate(prompt)
+        print("\n========== RAW MATCH RESPONSE ==========")
+        print(response)
+        print("========================================\n")
         data = self._extract_json(response)
 
         if not data:
@@ -90,44 +116,42 @@ class MatchingAgent:
             }
 
         # -----------------------
-        # Match Score Parsing
+        # Deterministic Score Calculation & Normalization
         # -----------------------
-        try:
-            score = int(data.get("match_score", 0))
-        except Exception:
+        company_skills = []
+        company_skills.extend(company.technologies)
+        company_skills.extend(company.services)
+        
+        candidate = {
+            self._canonical(x)
+            for x in profile.get("skills", [])
+        }
+        candidate.update(
+            self._canonical(x)
+            for x in profile.get("services", [])
+        )
+        
+        company_set = {
+            self._canonical(x)
+            for x in company_skills
+        }
+        
+        matched = sorted(candidate & company_set)
+        missing = sorted(company_set - candidate)
+        
+        if company_set:
+            score = int(len(matched) / len(company_set) * 100)
+        else:
             score = 0
-
+            
         score = max(0, min(score, 100))
 
         # -----------------------
-        # Lists Normalization
+        # Lists Normalization for other fields
         # -----------------------
-        matched = self._normalize(data.get("matched_skills", []))
-        missing = self._normalize(data.get("missing_skills", []))
         recommended = self._normalize(data.get("recommended_services", []))
         reasoning = str(data.get("reasoning", ""))
         confidence = str(data.get("confidence", "Medium"))
-
-        # -----------------------
-        # Balanced Score Adjustment
-        # -----------------------
-        if matched and score == 0:
-            score = 80
-
-        matched_count = len(matched)
-        missing_count = len(missing)
-
-        if matched_count >= 8:
-            score = max(score, 90)
-        elif matched_count >= 5:
-            score = max(score, 75)
-        elif matched_count >= 3:
-            score = max(score, 60)
-
-        if missing_count >= matched_count and score > 70:
-            score -= 10
-
-        score = max(0, min(score, 100))
 
         # -----------------------
         # Final Result Object

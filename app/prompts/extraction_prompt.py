@@ -1,3 +1,33 @@
+IMPORTANT
+
+The website owner is the company.
+
+Never extract another company that is only mentioned.
+
+Example
+
+Website:
+https://devin.ai
+
+Correct company:
+Devin
+
+Wrong:
+Nubank
+
+--------------------------------
+
+Website:
+https://failory.com/startups/machine-learning
+
+Correct company:
+Failory
+
+Wrong:
+Anthropic
+OpenAI
+Scale AI
+
 EXTRACTION_PROMPT = """
 You are an expert Information Extraction AI.
 
@@ -96,9 +126,9 @@ Ignore:
 TECHNOLOGIES
 ==================================================
 
-Return ONLY technologies explicitly mentioned.
+Extract every technology explicitly mentioned.
 
-Allowed
+Include:
 
 Programming Languages
 
@@ -106,38 +136,41 @@ Frameworks
 
 Libraries
 
-Databases
-
 Cloud Platforms
+
+Databases
 
 DevOps Tools
 
 AI Frameworks
 
-LLMs
-
 Examples
 
 Python
-
-Java
-
-FastAPI
 
 TensorFlow
 
 PyTorch
 
+FastAPI
+
+Docker
+
 AWS
 
 Azure
 
-Docker
+LangChain
+
+OpenCV
+
+Transformers
+
+Scikit-learn
+
+Vector Databases
 
 Kubernetes
-
-If the technology is not explicitly written,
-DO NOT include it.
 
 ==================================================
 AI OPPORTUNITIES

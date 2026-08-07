@@ -1,0 +1,127 @@
+{
+    "company": {
+        "name": "Top 100 Machine Learning Startups to Watch in 2026",
+        "website": "https://www.failory.com/startups/machine-learning",
+        "industry": "Machine Learning",
+        "summary": "The machine learning landscape is defined by significant capital investment and a recent surge of new companies. This activity is largely focused on generative AI and geographically centered in California.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        {
+            "name": "Fundraising OS",
+            "description": "Everything you need to raise funding for your startup, including 3,500+ investors, 7 tools, 18 templates and 3 learning resources."
+        },
+        {
+            "name": "Tool",
+            "description": "Information about the industries, countries, and cities they generally invest in."
+        },
+        {
+            "name": "Sheet",
+            "description": "2,189 Accelerators & Incubators"
+        },
+        {
+            "name": "Sheet",
+            "description": "1,600+ Unicorns"
+        },
+        {
+            "name": "Sheet",
+            "description": "250 BioTech & Health Investors"
+        },
+        {
+            "name": "Sheet",
+            "description": "250 AI Investors"
+        },
+        {
+            "name": "Sheet",
+            "description": "250 Fintech Investors"
+        }
+    ],
+    "technologies": [
+        "Generative AI",
+        "ML",
+        "NLP",
+        "Search Engine",
+        "AI",
+        "SaaS"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Predictive Analytics"
+    ],
+    "candidate_match": {
+        "score": 70,
+        "confidence": "Low",
+        "matched_skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "missing_skills": [
+            "Docker",
+            "AWS",
+            "Git",
+            "Flask",
+            "FastAPI",
+            "LLM Integration",
+            "Computer Vision"
+        ],
+        "strengths": [
+            "Strong Python and Machine Learning skills"
+        ],
+        "improvement_areas": [
+            "Lack of Docker, AWS, Git, Flask, FastAPI, LLM Integration, Computer Vision experience"
+        ],
+        "reasoning": "The candidate has strong Python and Machine Learning skills but lacks knowledge in other technologies required by the company. The recommended services align with their existing skills."
+    },
+    "recommended_services": [
+        "AI Chatbot Development",
+        "Predictive Analytics"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "generative ai",
+            "agentic ai",
+            "docker",
+            "aws",
+            "chatbot development",
+            "git",
+            "flask",
+            "fast API",
+            "llm",
+            "computer vision",
+            "cloud computing"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Docker",
+            "AWS",
+            "Git"
+        ]
+    }
+}

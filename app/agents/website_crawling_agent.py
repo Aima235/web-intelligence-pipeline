@@ -105,7 +105,7 @@ class WebsiteCrawlingAgent:
 
         company_sites = self.company_finder.filter(search_results)
 
-        MAX_TARGET_COMPANIES = 50
+        MAX_TARGET_COMPANIES = 30
 
         company_sites = company_sites[:MAX_TARGET_COMPANIES]
         total_found = len(company_sites)
@@ -292,7 +292,7 @@ class WebsiteCrawlingAgent:
 
             # ---------------- PROPOSAL ----------------
 
-            if company.match_score >= 70:
+            if company.match_score >= 60:
 
                 proposal = self.proposal_agent.generate(
                     company,

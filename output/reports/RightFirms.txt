@@ -1,0 +1,31 @@
+Company: RightFirms
+Website: https://www.rightfirms.co/directory/generative-ai/top-computer-vision-companies
+Industry: AI Consulting
+
+Match Score: 90%
+Priority: High
+
+Matched Skills
+-------------------------
+- Python
+- Machine Learning
+- Generative AI
+- Agentic AI
+- Docker
+- AWS
+
+Missing Skills
+-------------------------
+
+Recommended Services
+-------------------------
+- AI Chatbot Development
+- Computer Vision Solutions
+- LLM Applications
+- RAG Systems
+- Predictive Analytics
+- AI Automation
+
+Reasoning
+-------------------------
+Aima has a strong background in Python and Machine Learning, which are crucial for the company's AI consulting services. Their experience with Agentic AI and RAG is also highly relevant to RightFirms' expertise. The skills they have listed align well with the technologies mentioned by the company, making them a strong fit for the role.

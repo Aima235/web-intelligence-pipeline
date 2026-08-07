@@ -354,6 +354,19 @@ class WebsiteScraper:
 
                 if not title and soup.title:
                     title = soup.title.get_text(strip=True)
+                    
+                    title = title.lower()
+                    bad_titles = [
+                        "top",
+                        "best",
+                        "companies",
+                        "ranking",
+                        "list",
+                        "vs"
+                    ]
+                    if any(word in title for word in bad_titles):
+                        print("Skipping article page")
+                        return None
 
                 for tag in soup([
                     "script",

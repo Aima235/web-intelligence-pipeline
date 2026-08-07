@@ -1,0 +1,23 @@
+Company: Anthropic
+Website: https://www.failory.com/startups/machine-learning
+Industry: AI
+
+Match Score: 0%
+Priority: Medium
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- AI Customer Support Assistant
+- Predictive Analytics Platform
+
+Reasoning
+-------------------------
+The candidate has strong foundational skills in Python and Machine Learning. However, they lack experience with Docker and AWS, which are crucial technologies for Anthropic's current needs as an AI company developing large-scale models. The recommended services focus on areas where the candidate can realistically contribute.

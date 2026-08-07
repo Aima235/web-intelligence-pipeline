@@ -1,0 +1,111 @@
+{
+    "company": {
+        "name": "AICA",
+        "website": "https://aica.to/services/computer-vision-consulting/",
+        "industry": "Computer Vision Consulting",
+        "summary": "",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Image Recognition & Classification",
+        "Object Detection & Localization",
+        "Video Analytics",
+        "Visual Inspection & Quality Control",
+        "OCR & Document Processing"
+    ],
+    "technologies": [
+        "Deep learning frameworks",
+        "Pre-trained models",
+        "Cloud AI services",
+        "Edge deployment",
+        "Specialized hardware",
+        "MLOps tools"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Manual inspection time",
+        "Defect detection rates"
+    ],
+    "business_gaps": [
+        "Manual inspection time",
+        "Defect detection rates"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ],
+        "strengths": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Docker",
+            "AWS",
+            "Git",
+            "Flask",
+            "FastAPI"
+        ],
+        "improvement_areas": [
+            "Image Recognition & Classification",
+            "Object Detection & Localization",
+            "Video Analytics",
+            "Visual Inspection & Quality Control",
+            "OCR & Document Processing"
+        ],
+        "reasoning": "The candidate's skills and experience align closely with the company's technology stack, particularly in areas like Python, Docker, AWS, and machine learning. However, there are gaps in their skill set related to image recognition, object detection, video analytics, visual inspection, OCR, and document processing. The recommended services focus on these missing areas."
+    },
+    "recommended_services": [
+        "Computer Vision Solutions",
+        "LLM Integration Techniques"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Low",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "generative ai",
+            "agentic ai",
+            "docker",
+            "aws",
+            "chatbot development",
+            "git",
+            "flask",
+            "fast API",
+            "llm",
+            "computer vision",
+            "cloud computing"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Docker",
+            "AWS",
+            "Git"
+        ]
+    }
+}

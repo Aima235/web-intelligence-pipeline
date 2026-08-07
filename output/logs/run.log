@@ -302,6 +302,7 @@
 [2026-08-04 15:37:06] ========== RUN FINISHED ==========
 [2026-08-04 16:14:43] ========== NEW RUN STARTED ==========
 [2026-08-06 11:35:46] ========== NEW RUN STARTED ==========
+<<<<<<< HEAD
 [2026-08-06 12:10:03] Crawling http://mentality.ai/
 [2026-08-06 12:13:24] Extraction completed: Mentality.ai
 [2026-08-06 12:15:40] Gap analysis completed: Mentality.ai
@@ -329,3 +330,72 @@
 [2026-08-06 17:17:03] Crawling https://javascript.plainenglish.io/how-machine-learning-consulting-transforms-modern-enterprises-72a23798bee8
 [2026-08-06 17:17:09] Best match: Vedia Cloud Analytics with a score of 0%
 [2026-08-06 17:17:09] ========== RUN FINISHED ==========
+=======
+[2026-08-07 14:18:28] ========== NEW RUN STARTED ==========
+[2026-08-07 14:54:46] ========== RUN FINISHED ==========
+[2026-08-07 15:23:47] ========== NEW RUN STARTED ==========
+[2026-08-07 15:45:11] ========== NEW RUN STARTED ==========
+[2026-08-07 16:04:56] Crawling https://aimagazine.com/top10/top-10-global-machine-learning-companies
+[2026-08-07 16:05:18] Crawling https://www.failory.com/startups/machine-learning
+[2026-08-07 16:08:56] Extraction completed: Anthropic
+[2026-08-07 16:11:21] Gap analysis completed: Anthropic
+[2026-08-07 16:13:56] Match Score: Anthropic = 0%
+[2026-08-07 16:13:56] JSON exported for Anthropic
+[2026-08-07 16:13:56] Crawling https://rsmus.com/services/digital-transformation/artificial-intelligence/agentic-ai.html
+[2026-08-07 16:14:50] Crawling https://www.inven.ai/company-lists/top-22-deep-learning-companies
+[2026-08-07 16:17:23] Extraction completed: Inven
+[2026-08-07 16:18:49] Gap analysis completed: Inven
+[2026-08-07 16:20:36] Match Score: Inven = 0%
+[2026-08-07 16:20:36] JSON exported for Inven
+[2026-08-07 16:20:36] Crawling https://www.wipro.com/
+[2026-08-07 16:24:33] Extraction completed: Wipro
+[2026-08-07 16:25:55] Gap analysis completed: Wipro
+[2026-08-07 16:27:43] Match Score: Wipro = 0%
+[2026-08-07 16:27:43] JSON exported for Wipro
+[2026-08-07 16:27:43] Crawling https://codeless.co/best-ai-automation-agencies/
+[2026-08-07 16:27:50] Crawling https://devin.ai/
+[2026-08-07 16:36:32] Extraction completed: Nubank
+[2026-08-07 16:37:39] Gap analysis completed: Nubank
+[2026-08-07 16:41:11] Match Score: Nubank = 90%
+[2026-08-07 16:46:59] Proposal saved for Nubank
+[2026-08-07 16:46:59] JSON exported for Nubank
+[2026-08-07 16:46:59] Best match: Nubank with a score of 90%
+[2026-08-07 16:46:59] Best match: Anthropic with a score of 0%
+[2026-08-07 16:46:59] Best match: Inven with a score of 0%
+[2026-08-07 16:46:59] Best match: Wipro with a score of 0%
+[2026-08-07 16:46:59] ========== RUN FINISHED ==========
+[2026-08-07 17:30:34] ========== NEW RUN STARTED ==========
+[2026-08-07 17:47:57] Crawling https://www.iqtalent.com/ai-engineer-recruiting/
+[2026-08-07 17:48:26] Crawling https://rsmus.com/services/digital-transformation/artificial-intelligence/agentic-ai.html
+[2026-08-07 17:49:03] Crawling https://www.elinext.com/solutions/ai/machine-learning/
+[2026-08-07 17:49:08] Crawling https://resolvetech.com/machine-learning-consulting-enterprises-operational-results/
+[2026-08-07 17:49:13] Crawling https://centricconsulting.com/technology-solutions/artificial-intelligence-consulting/machine-learning-consulting/
+[2026-08-07 17:49:35] Crawling https://bhsg.com/bh-technologies/practice-area/artificial-intelligence-machine-learning
+[2026-08-07 17:49:40] Crawling https://sapinova.ai/
+[2026-08-07 17:49:52] Crawling https://hackerkernel.com/ai-machine-learning-development-services
+[2026-08-07 17:50:09] Crawling https://www.failory.com/startups/machine-learning
+[2026-08-07 17:54:29] Extraction completed: Top 100 Machine Learning Startups to Watch in 2026
+[2026-08-07 17:57:09] Gap analysis completed: Top 100 Machine Learning Startups to Watch in 2026
+[2026-08-07 17:59:56] Match Score: Top 100 Machine Learning Startups to Watch in 2026 = 70%
+[2026-08-07 18:08:54] Proposal saved for Top 100 Machine Learning Startups to Watch in 2026
+[2026-08-07 18:08:54] JSON exported for Top 100 Machine Learning Startups to Watch in 2026
+[2026-08-07 18:08:54] Crawling https://www.fundedstartupsdaily.com/raises/ai-ml/
+[2026-08-07 18:17:54] Crawling https://softwarestrategiesblog.com/2021/04/07/the-top-20-machine-learning-startups-to-watch-in-2021/
+[2026-08-07 18:18:14] Crawling https://mindrind.net/computer-vision-solutions/
+[2026-08-07 18:45:57] Crawling https://viso.ai/computer-vision/most-popular-computer-vision-companies-and-startups/
+[2026-08-07 18:46:27] Crawling https://www.rightfirms.co/directory/generative-ai/top-computer-vision-companies
+[2026-08-07 18:53:41] Extraction completed: RightFirms
+[2026-08-07 18:56:53] Gap analysis completed: RightFirms
+[2026-08-07 19:00:35] Match Score: RightFirms = 90%
+[2026-08-07 19:08:55] Proposal saved for RightFirms
+[2026-08-07 19:08:56] JSON exported for RightFirms
+[2026-08-07 19:08:56] Crawling https://aica.to/services/computer-vision-consulting/
+[2026-08-07 19:14:38] Extraction completed: AICA
+[2026-08-07 19:15:58] Gap analysis completed: AICA
+[2026-08-07 19:19:12] Match Score: AICA = 0%
+[2026-08-07 19:19:12] JSON exported for AICA
+[2026-08-07 19:19:12] Best match: RightFirms with a score of 90%
+[2026-08-07 19:19:12] Best match: Top 100 Machine Learning Startups to Watch in 2026 with a score of 70%
+[2026-08-07 19:19:12] Best match: AICA with a score of 0%
+[2026-08-07 19:19:12] ========== RUN FINISHED ==========
+>>>>>>> 94398d4 (Improve matching accuracy, extraction quality and proposal generation)

@@ -1,0 +1,101 @@
+{
+    "company": {
+        "name": "Wipro",
+        "website": "https://www.wipro.com/",
+        "industry": "Consulting, AI-powered technology services",
+        "summary": "Wipro is a consulting-led and AI-powered technology services company. They offer applications, Wipro Intelligence, Business Process Services, Cloud, Consulting, Cybersecurity, Data & Analytics, Digital Experiences, Engineering, Global Capability Centers, Sustainability.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Applications",
+        "Wipro Intelligence",
+        "Business Process Services",
+        "Cloud",
+        "Consulting",
+        "Cybersecurity",
+        "Data & Analytics",
+        "Digital Experiences",
+        "Engineering",
+        "Global Capability Centers",
+        "Sustainability"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "AI Frameworks",
+        "LLMs"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "AWS",
+            "Docker"
+        ],
+        "strengths": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Prompt Engineering"
+        ],
+        "improvement_areas": [
+            "AWS",
+            "Docker"
+        ],
+        "reasoning": "The candidate has strong skills in Python, Machine Learning, Generative AI, and Prompt Engineering. However, they lack experience with AWS and Docker, which are important technologies for Wipro's services. The recommended services focus on areas where the candidate can bring value."
+    },
+    "recommended_services": [
+        "AI Chatbot Development",
+        "Computer Vision Solutions"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": "",
+        "phones": "",
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "generative ai",
+            "agaentic ai",
+            "mlops",
+            "prompt engineering",
+            "pytorch",
+            "tensorflow",
+            "transfer learning",
+            "git",
+            "vector databases"
+        ],
+        "services": [
+            "PyTorch",
+            "TensorFlow"
+        ]
+    }
+}

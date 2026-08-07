@@ -1,0 +1,23 @@
+Company: Wipro
+Website: https://www.wipro.com/
+Industry: Consulting, AI-powered technology services
+
+Match Score: 0%
+Priority: 
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- AWS
+- Docker
+
+Recommended Services
+-------------------------
+- AI Chatbot Development
+- Computer Vision Solutions
+
+Reasoning
+-------------------------
+The candidate has strong skills in Python, Machine Learning, Generative AI, and Prompt Engineering. However, they lack experience with AWS and Docker, which are important technologies for Wipro's services. The recommended services focus on areas where the candidate can bring value.

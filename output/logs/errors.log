@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [2026-08-06 12:24:15] https://www.insight.com/en_US/what-we-do/expertise/data-and-ai/computer-vision.html
 Error: cannot access local variable 'final_url' where it is not associated with a value
 
@@ -8,5 +9,23 @@ Error: cannot access local variable 'final_url' where it is not associated with 
 Error: cannot access local variable 'final_url' where it is not associated with a value
 
 [2026-08-06 17:17:09] https://javascript.plainenglish.io/how-machine-learning-consulting-transforms-modern-enterprises-72a23798bee8
+=======
+[2026-08-07 16:05:18] https://aimagazine.com/top10/top-10-global-machine-learning-companies
+Error: cannot access local variable 'final_url' where it is not associated with a value
+
+[2026-08-07 16:27:50] https://codeless.co/best-ai-automation-agencies/
+Error: cannot access local variable 'final_url' where it is not associated with a value
+
+[2026-08-07 17:49:08] https://www.elinext.com/solutions/ai/machine-learning/
+Error: cannot access local variable 'final_url' where it is not associated with a value
+
+[2026-08-07 17:49:13] https://resolvetech.com/machine-learning-consulting-enterprises-operational-results/
+Error: cannot access local variable 'final_url' where it is not associated with a value
+
+[2026-08-07 17:49:40] https://bhsg.com/bh-technologies/practice-area/artificial-intelligence-machine-learning
+Error: cannot access local variable 'final_url' where it is not associated with a value
+
+[2026-08-07 18:45:57] https://mindrind.net/computer-vision-solutions/
+>>>>>>> 94398d4 (Improve matching accuracy, extraction quality and proposal generation)
 Error: cannot access local variable 'final_url' where it is not associated with a value
 

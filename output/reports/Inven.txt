@@ -1,0 +1,25 @@
+Company: Inven
+Website: https://www.inven.ai/company-lists/top-22-deep-learning-companies
+Industry: AI for M&A
+
+Match Score: 0%
+Priority: High
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- Deal Sourcing Automation
+- Market & Competitor Analysis Automation
+- Company Materials Preparation Automation
+- Portfolio & Pipeline Monitoring Automation
+
+Reasoning
+-------------------------
+The candidate has strong skills in Python, Machine Learning, Generative AI, Prompt Engineering, and MLOps. However, they lack experience with Docker and AWS, which are key technologies for the company's services such as Deal Sourcing, Market & Competitor Analysis, Company Materials Preparation, and Portfolio & Pipeline Monitoring.

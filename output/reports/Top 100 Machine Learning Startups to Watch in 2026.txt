@@ -1,0 +1,30 @@
+Company: Top 100 Machine Learning Startups to Watch in 2026
+Website: https://www.failory.com/startups/machine-learning
+Industry: Machine Learning
+
+Match Score: 70%
+Priority: Low
+
+Matched Skills
+-------------------------
+- Python
+- Machine Learning
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+- Git
+- Flask
+- FastAPI
+- LLM Integration
+- Computer Vision
+
+Recommended Services
+-------------------------
+- AI Chatbot Development
+- Predictive Analytics
+
+Reasoning
+-------------------------
+The candidate has strong Python and Machine Learning skills but lacks knowledge in other technologies required by the company. The recommended services align with their existing skills.

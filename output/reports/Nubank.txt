@@ -1,0 +1,24 @@
+Company: Nubank
+Website: https://devin.ai/
+Industry: Financial Services
+
+Match Score: 90%
+Priority: Medium
+
+Matched Skills
+-------------------------
+- Python
+- TensorFlow
+- PyTorch
+
+Missing Skills
+-------------------------
+
+Recommended Services
+-------------------------
+- NLP Solutions
+- Computer Vision Solutions
+
+Reasoning
+-------------------------
+Aima has strong Python and TensorFlow skills, which align well with the company's focus on financial services. They also have experience with PyTorch and transfer learning, which are relevant to Nubank's AI solutions in industries like Healthcare and Security. The lack of specific mention of other technologies or tools suggests a good fit overall.

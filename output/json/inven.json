@@ -1,0 +1,96 @@
+{
+    "company": {
+        "name": "Inven",
+        "website": "https://www.inven.ai/company-lists/top-22-deep-learning-companies",
+        "industry": "AI for M&A",
+        "summary": "AI for M&A. Inven helps teams see the full private market.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Deal Sourcing",
+        "Market & Competitor Analysis",
+        "Company Materials Preparation",
+        "Portfolio & Pipeline Monitoring"
+    ],
+    "technologies": [
+        "Data Foundation",
+        "Integrations",
+        "Security & Compliance",
+        "Agentic Workflows"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "Inven MCP for Private Market Company Data",
+        "AI Code Modernization Assistant",
+        "Predictive Analytics Platform",
+        "Machine Learning Forecasting",
+        "Semantic Search",
+        "Intelligent Document Processing"
+    ],
+    "candidate_match": {
+        "score": 0,
+        "confidence": "Low",
+        "matched_skills": [],
+        "missing_skills": [
+            "Docker",
+            "AWS"
+        ],
+        "strengths": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Prompt Engineering"
+        ],
+        "improvement_areas": [
+            "Docker",
+            "AWS"
+        ],
+        "reasoning": "The candidate has strong skills in Python, Machine Learning, Generative AI, Prompt Engineering, and MLOps. However, they lack experience with Docker and AWS, which are key technologies for the company's services such as Deal Sourcing, Market & Competitor Analysis, Company Materials Preparation, and Portfolio & Pipeline Monitoring."
+    },
+    "recommended_services": [
+        "Deal Sourcing Automation",
+        "Market & Competitor Analysis Automation",
+        "Company Materials Preparation Automation",
+        "Portfolio & Pipeline Monitoring Automation"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "generative ai",
+            "agaentic ai",
+            "mlops",
+            "prompt engineering",
+            "pytorch",
+            "tensorflow",
+            "transfer learning",
+            "git",
+            "vector databases"
+        ],
+        "services": [
+            "PyTorch",
+            "TensorFlow"
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "company": {
+        "name": "RightFirms",
+        "website": "https://www.rightfirms.co/directory/generative-ai/top-computer-vision-companies",
+        "industry": "AI Consulting",
+        "summary": "RightFirms is an AI consulting company specializing in Agentic AI and RAG. They offer expertise in Python, Java, FastAPI, TensorFlow, PyTorch, AWS, Azure, Docker, Kubernetes, LLaMA, Pinecone, OpenCV, among other technologies.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Agentic AI",
+        "RAG"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "LLaMA",
+        "Pinecone",
+        "OpenCV"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [],
+    "business_gaps": [],
+    "ai_opportunities": [
+        "AI Chatbot",
+        "Predictive Analytics",
+        "Recommendation Systems",
+        "Computer Vision",
+        "NLP",
+        "Machine Learning",
+        "Generative AI"
+    ],
+    "candidate_match": {
+        "score": 90,
+        "confidence": "High",
+        "matched_skills": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Docker",
+            "AWS"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "Strong Python and Machine Learning skills",
+            "Experience in Agentic AI and RAG",
+            "Expertise in Docker, AWS, Git, Flask, FastAPI, LLM Integration Techniques, Computer Vision Projects"
+        ],
+        "improvement_areas": [],
+        "reasoning": "Aima has a strong background in Python and Machine Learning, which are crucial for the company's AI consulting services. Their experience with Agentic AI and RAG is also highly relevant to RightFirms' expertise. The skills they have listed align well with the technologies mentioned by the company, making them a strong fit for the role."
+    },
+    "recommended_services": [
+        "AI Chatbot Development",
+        "Computer Vision Solutions",
+        "LLM Applications",
+        "RAG Systems",
+        "Predictive Analytics",
+        "AI Automation"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "High",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": "",
+        "phones": "",
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "generative ai",
+            "agentic ai",
+            "docker",
+            "aws",
+            "chatbot development",
+            "git",
+            "flask",
+            "fast API",
+            "llm",
+            "computer vision",
+            "cloud computing"
+        ],
+        "services": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "Agentic AI",
+            "Docker",
+            "AWS",
+            "Git"
+        ]
+    }
+}

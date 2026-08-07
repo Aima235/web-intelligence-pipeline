@@ -1,0 +1,101 @@
+{
+    "company": {
+        "name": "Nubank",
+        "website": "https://devin.ai/",
+        "industry": "Financial Services",
+        "summary": "Nubank's government, partners, security, and customer solutions were transformed by Devin Cloud, a software engineer tool that improved engineering efficiency and cost savings.",
+        "location": "",
+        "company_size": "",
+        "founded": ""
+    },
+    "services": [
+        "Government",
+        "Partners",
+        "Security",
+        "Customers"
+    ],
+    "technologies": [
+        "Python",
+        "Java",
+        "FastAPI",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Azure",
+        "Docker",
+        "Kubernetes",
+        "LLMs"
+    ],
+    "target_clients": [],
+    "business_goals": [],
+    "pain_points": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "business_gaps": [
+        "Manual workflows",
+        "Limited automation",
+        "No chatbot",
+        "Poor personalization",
+        "No AI-driven insights"
+    ],
+    "ai_opportunities": [],
+    "candidate_match": {
+        "score": 90,
+        "confidence": "High",
+        "matched_skills": [
+            "Python",
+            "TensorFlow",
+            "PyTorch"
+        ],
+        "missing_skills": [],
+        "strengths": [
+            "Strong Python and TensorFlow skills",
+            "Experience in AI/ML technologies like PyTorch and Transfer Learning"
+        ],
+        "improvement_areas": [],
+        "reasoning": "Aima has strong Python and TensorFlow skills, which align well with the company's focus on financial services. They also have experience with PyTorch and transfer learning, which are relevant to Nubank's AI solutions in industries like Healthcare and Security. The lack of specific mention of other technologies or tools suggests a good fit overall."
+    },
+    "recommended_services": [
+        "NLP Solutions",
+        "Computer Vision Solutions"
+    ],
+    "proposal": {},
+    "cms": {},
+    "lead_generation": {
+        "priority": "Medium",
+        "lead_score": 0,
+        "project_type": "",
+        "contact_page": ""
+    },
+    "products": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": []
+    },
+    "candidate_profile": {
+        "name": "Aima",
+        "desired_role": "AI Engineer",
+        "skills": [
+            "python",
+            "machine learning",
+            "generative ai",
+            "agaentic ai",
+            "mlops",
+            "prompt engineering",
+            "pytorch",
+            "tensorflow",
+            "transfer learning",
+            "git",
+            "vector databases"
+        ],
+        "services": [
+            "PyTorch",
+            "TensorFlow"
+        ]
+    }
+}

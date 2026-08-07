@@ -1,0 +1,23 @@
+Company: AICA
+Website: https://aica.to/services/computer-vision-consulting/
+Industry: Computer Vision Consulting
+
+Match Score: 0%
+Priority: Low
+
+Matched Skills
+-------------------------
+
+Missing Skills
+-------------------------
+- Docker
+- AWS
+
+Recommended Services
+-------------------------
+- Computer Vision Solutions
+- LLM Integration Techniques
+
+Reasoning
+-------------------------
+The candidate's skills and experience align closely with the company's technology stack, particularly in areas like Python, Docker, AWS, and machine learning. However, there are gaps in their skill set related to image recognition, object detection, video analytics, visual inspection, OCR, and document processing. The recommended services focus on these missing areas.
